@@ -1,5 +1,5 @@
 
-# nickaderDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# A lab website for Nick Ader's group at the University of North Carolina Greensboro. 
 
 Visit **[nickader.github.io/AderLabWebsite](https://nickader.github.io/AderLabWebsite)** 🚀
 
