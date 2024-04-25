@@ -1,7 +1,7 @@
 ---
 ---
 
-# The Ader Lab: Investigating how cells keep it all together! We use different flavors of microscopy to unravel how cells define and maintain their different compartments.
+# We are a team of researchers using the model yeast, _S. pombe_ and different flavors of microscopy to unravel how cells define and maintain their cellular compartments.
 
 
 
