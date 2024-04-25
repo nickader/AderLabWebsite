@@ -1,7 +1,7 @@
 ---
 ---
 
-# We are a team of researchers using the model yeast, _S. pombe_ and different flavors of microscopy to unravel how cells define and maintain their cellular compartments.
+# We are a team of researchers using the model yeast, _S. pombe_, and different flavors of microscopy to unravel how cells define and maintain their cellular compartments.
 
 
 
