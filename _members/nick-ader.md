@@ -1,19 +1,13 @@
 ---
-name: Nick Ader
-image: images/photo.jpg
+name: Nick Ader, PhD
+image: images/nick_headshot_2.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - N. Ader
+  - N Ader
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: [https://janesmith.com](https://nickader.github.io/AderLabWebsite/t)
+  orcid: 0000-0001-7744-4484
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Nick studies the cell biology of the nuclear envelope as a postdoctoral associate working with Dr. Patrick Lusk and Dr. Megan King. Nick is broadly interested in the various mechanisms cells employ to maintain compartmentalization. He did his doctoral work with Dr. Richard Youle and Dr. Wanda Kukulski on how mitochondrial membranes are reorganized during processes such as apoptosis and mitophagy using a variety of correlative light and electron microscopy (CLEM) approaches. When he's not doing science, Nick enjoys, biking, D&D, and baking.
