@@ -6,7 +6,7 @@ aliases:
   - N. Ader
   - N Ader
 links:
-  home-page: [https://janesmith.com](https://nickader.github.io/AderLabWebsite/t)
+  home-page: [https://nickader.github.io/AderLabWebsite]
   orcid: 0000-0001-7744-4484
 ---
 
