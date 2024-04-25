@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Nick Ader
 image: images/photo.jpg
 role: pi
 aliases:
