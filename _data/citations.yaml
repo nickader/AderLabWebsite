@@ -21,6 +21,7 @@
   image: images/nucleophagy.png
   tags:
   - research article
+  - preprint
 - id: doi:10.1038/s41556-023-01235-4
   title: An ESCRT grommet cooperates with a diffusion barrier to maintain nuclear
     integrity
@@ -49,7 +50,6 @@
   - C. Patrick Lusk
   tags:
   - research article
-  - undergraduate
   description: <sup>1</sup>Undergraduate researcher
 - id: doi:10.1083/jcb.202103030
   title: Atg39 selectively captures inner nuclear membrane into lumenal vesicles for
@@ -66,8 +66,11 @@
   date: '2021-10-29'
   link: https://doi.org/gsw7tv
   orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/nucleophagy0.png
+  tags:
+  - research article
 - id: doi:10.1083/jcb.202004222
   title: "Direct binding of ESCRT protein Chm7 to phosphatidic acid\u2013rich membranes\
     \ at nuclear envelope herniations"
@@ -85,8 +88,11 @@
   date: '2021-01-19'
   link: https://doi.org/gh6frs
   orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/PA.png
+  tags:
+  - research article
 - id: doi:10.1016/j.ceb.2020.01.011
   title: 'CHMPions of repair: Emerging perspectives on sensing and repairing the nuclear
     envelope barrier'
