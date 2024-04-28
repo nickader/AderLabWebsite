@@ -9,6 +9,7 @@ aliases:
   - Nicholas R Ader
   - Nicholas Ader
 links:
+  twitter: https://twitter.com/NicholasAder
   orcid: 0000-0001-7744-4484
   CV: https://www.icloud.com/iclouddrive/0cdVuZ_GwSqBBt-7aU8c1MPfw#Ader_CV 
 ---
