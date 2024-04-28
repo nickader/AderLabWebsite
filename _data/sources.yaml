@@ -37,15 +37,44 @@
 
 # PA paper
 - id: doi:10.1083/jcb.202004222
-  image: images/PA.png
+  image: images/pa.png
   tags:
     - research article
 
+#Chmpions review
+- id: doi:10.1016/j.ceb.2020.01.011
+  image: images/chmpions.png
+  tags:
+  - review
+
+#bax
+- id: doi:10.7554/elife.40712
+  image: images/bax.png
+  tags:
+    - research article
+
+#triclem
+- id: doi:10.1016/bs.mcb.2017.03.009
+  image: images/triclem.png
+  tags:
+    - method article 
+
 #Pink1/Parkin commentary
 - id: doi:10.1523/jneurosci.2525-16.2016
-  title: Seeking an _In Vivo_ Neuronal Context for the PINK1/Parkin Pathway
   tags:
     - commentary
+
+#Nrf2
+- id: doi:10.1016/j.toxlet.2015.07.004
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4705856/bin/nihms748068f5.jpg
+  tags:
+  - research article
+
+#pivom
+- id: doi:10.1002/cbic.201402382
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e22c17bf-76d2-4daf-b6f7-e41abe7a9730/mcontent.jpg
+  tags:
+  - research article
 
 
 ##### Remove old preprints #####
