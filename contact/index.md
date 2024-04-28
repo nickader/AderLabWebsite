@@ -7,21 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you're interested in joining the group or want to work with us in any way, don't hesitate to reach out.
+
+Our physical address is 
+321 Eberhert Building
+Greensboro, NC 27403
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="nicholas.ader@yale.edu"
+  link="nicholas.ader@yale.edu"
 %}
 {%
   include button.html
