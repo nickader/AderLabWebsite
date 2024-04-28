@@ -1,7 +1,7 @@
 ---
 ---
 
-# How do you build a cell and keep it together?
+# How are cells built and kept together?
 
 {% include section.html %}
 
