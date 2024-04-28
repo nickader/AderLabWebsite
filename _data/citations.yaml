@@ -82,7 +82,7 @@
   orcid: 0000-0001-7744-4484
   plugin: sources.py
   file: sources.yaml
-  image: images/PA.png
+  image: images/pa.png
   tags:
   - research article
 - id: doi:10.1016/j.ceb.2020.01.011
@@ -95,8 +95,11 @@
   date: '2020-06-01'
   link: https://doi.org/gtr4s4
   orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/chmpions.png
+  tags:
+  - review
 - id: doi:10.7554/elife.40712
   title: Molecular and topological reorganizations in mitochondrial architecture interplay
     during Bax-mediated steps of apoptosis
@@ -112,8 +115,11 @@
   date: '2019-02-04'
   link: https://doi.org/gst7s4
   orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/bax.png
+  tags:
+  - research article
 - id: doi:10.1016/bs.mcb.2017.03.009
   title: triCLEM
   authors:
@@ -123,10 +129,13 @@
   date: '2017-01-01'
   link: https://doi.org/gtr4s5
   orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/triclem.png
+  tags:
+  - method article
 - id: doi:10.1523/jneurosci.2525-16.2016
-  title: Seeking an _In Vivo_ Neuronal Context for the PINK1/Parkin Pathway
+  title: Seeking an<i>In Vivo</i>Neuronal Context for the PINK1/Parkin Pathway
   authors:
   - Nicholas R. Ader
   publisher: The Journal of Neuroscience
@@ -148,8 +157,11 @@
   date: '2015-10-01'
   link: https://doi.org/f7qw3n
   orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/4705856/bin/nihms748068f5.jpg
+  tags:
+  - research article
 - id: doi:10.1002/cbic.201402382
   title: "Direct Synthesis of Partially Modified 2\u2032\u2010<i>O</i>\u2010Pivaloyloxymethyl\
     \ RNAs by a Base\u2010Labile Protecting Group Strategy and their Potential for\
@@ -167,5 +179,8 @@
   date: '2014-10-24'
   link: https://doi.org/f2vwcz
   orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e22c17bf-76d2-4daf-b6f7-e41abe7a9730/mcontent.jpg
+  tags:
+  - research article
