@@ -28,6 +28,10 @@ mascot:
 
 # general
 
+CV:
+  text: CV
+  tooltop: Link
+  
 link:
   icon: fa-solid fa-globe
   text: Link
