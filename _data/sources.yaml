@@ -1,34 +1,22 @@
-# id: doi:10.1371/journal.pcbi.1007128
-  #type: paper
-  #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  #date: 2020-12-4
-  #image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  #buttons:
-   # - type: manubot
-    #  link: https://greenelab.github.io/meta-review/
-    #- type: source
-     # text: Manuscript Source
-     # link: https://github.com/greenelab/meta-review
-    #- type: website
-     # link: http://manubot.org/
- # tags:
-  #  - open science
-   # - collaboration
-  #repo: greenelab/meta-review
-
 ##### Modfifications #####
 
 # Dnm1 preprint
 - id: doi:10.1101/2024.02.14.580336
   image: images/nucleophagy.png
   publisher: bioRxiv
+  tags:
+    - research article 
 
 #ESCRT grommet
 - id: doi:10.1038/s41556-023-01235-4
   image: https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41556-023-01235-4/MediaObjects/41556_2023_1235_Fig13_ESM.jpg?as=webp
+  tags:
+    - research article 
 
 - id: doi:10.1523/jneurosci.2525-16.2016
   title: Seeking an _In Vivo_ Neuronal Context for the PINK1/Parkin Pathway
+  tags:
+    - commentary
 
 ##### Remove old preprints #####
   
