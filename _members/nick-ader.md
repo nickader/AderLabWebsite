@@ -2,6 +2,10 @@
 name: Nick Ader, PhD (he/him/his)
 image: images/nick_headshot_2.jpg
 role: pi
+description: 
+- Principle Investigator
+- (he/him/his)
+
 aliases:
   - N. Ader
   - N Ader
