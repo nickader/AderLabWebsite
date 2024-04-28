@@ -1,5 +1,5 @@
 ---
-name: Nick Ader, PhD
+name: Nick Ader, PhD (he/him/his)
 image: images/nick_headshot_2.jpg
 role: pi
 aliases:
