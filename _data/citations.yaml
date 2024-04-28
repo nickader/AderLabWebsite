@@ -39,8 +39,18 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41556-023-01235-4/MediaObjects/41556_2023_1235_Fig13_ESM.jpg?as=webp
+  Authors:
+  - Nicholas R. Ader
+  - Linda Chen<sup>1</sup>
+  - Ivan V. Surovtsev
+  - William L. Chadwick
+  - Elisa C. Rodriguez
+  - Megan C. King
+  - C. Patrick Lusk
   tags:
   - research article
+  - undergraduate
+  description: <sup>1</sup>Undergraduate researcher
 - id: doi:10.1083/jcb.202103030
   title: Atg39 selectively captures inner nuclear membrane into lumenal vesicles for
     delivery to the autophagosome
