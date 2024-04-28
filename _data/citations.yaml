@@ -19,6 +19,8 @@
   plugin: sources.py
   file: sources.yaml
   image: images/nucleophagy.png
+  tags:
+  - research article
 - id: doi:10.1038/s41556-023-01235-4
   title: An ESCRT grommet cooperates with a diffusion barrier to maintain nuclear
     integrity
@@ -37,6 +39,8 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/esm/art%3A10.1038%2Fs41556-023-01235-4/MediaObjects/41556_2023_1235_Fig13_ESM.jpg?as=webp
+  tags:
+  - research article
 - id: doi:10.1083/jcb.202103030
   title: Atg39 selectively captures inner nuclear membrane into lumenal vesicles for
     delivery to the autophagosome
@@ -123,6 +127,8 @@
   orcid: 0000-0001-7744-4484
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - commentary
 - id: doi:10.1016/j.toxlet.2015.07.004
   title: 'Comparison of human Nrf2 antibodies: A tale of two proteins'
   authors:
