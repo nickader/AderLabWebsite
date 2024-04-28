@@ -6,6 +6,7 @@
   publisher: bioRxiv
   tags:
     - research article 
+    - preprint
 
 #ESCRT grommet
 - id: doi:10.1038/s41556-023-01235-4
@@ -20,13 +21,32 @@
     - C. Patrick Lusk
   tags:
     - research article 
-    - undergraduate
   description: <sup>1</sup>Undergraduate researcher
 
+# Second Nucleophagy paper
+- id: doi:10.1083/jcb.202103030
+  image: images/nucleophagy0.png
+  tags:
+    - research article 
+
+# First nucleophagy paper
+- id: doi:10.1083/jcb.202103030
+  image: images/nucleophagy0.png
+  tags:
+    - research article 
+
+# PA paper
+- id: doi:10.1083/jcb.202004222
+  image: images/PA.png
+  tags:
+    - research article
+
+#Pink1/Parkin commentary
 - id: doi:10.1523/jneurosci.2525-16.2016
   title: Seeking an _In Vivo_ Neuronal Context for the PINK1/Parkin Pathway
   tags:
     - commentary
+
 
 ##### Remove old preprints #####
   
