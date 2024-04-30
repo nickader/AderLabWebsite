@@ -35,7 +35,7 @@ Greensboro, NC 27403
 {% capture col2 %}
 
 {%
-  <div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Eberhart%20Bldg&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0"  scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-a.com"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:500px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:400px;}</style></div></div>
+  <div class="mapouter"><div class="gmap_canvas"><iframe width="500" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Eberhart%20Bldg&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0"  scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-a.com"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:500px;}</style><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:200px;width:200px;}</style></div></div>
 %}
 
 {% endcapture %}
