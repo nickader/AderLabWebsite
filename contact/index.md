@@ -36,7 +36,7 @@ Greensboro, NC 27403
 
 <!--From https://www.embedgooglemap.net-->
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="100%" id="gmap_canvas" src="https://maps.google.com/maps?q=eberhert%20building&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:100%;}
+<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="200%" id="gmap_canvas" src="https://maps.google.com/maps?q=eberhert%20building&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net"></a><style>.gmap_canvas {overflow:hidden;background:none!important;width:100%;height:200%;}
 
 {% endcapture %}
 
