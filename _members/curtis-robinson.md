@@ -1,5 +1,6 @@
 ---
-name: Curtis Robinsonimage: images/photo.jpg
+name: Curtis Robinson
+image: images/photo.jpg
 role: undergrad
 ---
 
