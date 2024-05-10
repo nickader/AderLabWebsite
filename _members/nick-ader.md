@@ -1,6 +1,6 @@
 ---
 name: Nick Ader, PhD (he/him/his)
-image: images/nick_headshot_2.jpg
+image: images/headshot_square_240429.png
 role: pi
 aliases:
   - N. Ader
