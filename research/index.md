@@ -19,9 +19,9 @@ Our lab tackles these questions by studying model organism, _S. pombe_
 
 {%
   include figure.html
-  image="images/meiosisII.jpg"
+  image="images/meiosisII.png"
   caption="A diagramatic representation of meiosis II in the fission yeast, _S. pombe_"
-  width="80%"
+  width="100%"
 %}
 
 {% include section.html %}
