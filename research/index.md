@@ -5,18 +5,17 @@ nav:
   tooltip: What we're working on
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# How do cells build and maintain membranes?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Membranes are the bags that hold cells together. Within eukaryotic cells, sub-compartments are formed by organelle membranes to form specialized structures. Despite the essential nature of membranes to eukaryotic life, there are still many questions that remain unanswered:
 
-{% include tags.html tags="publication, resource, website" %}
+1. How are a diverse array of organelle membranes constructed and maintained by the cell? 
+2. What is the starting material for the biogenesis of a particular membrane? 
+3. How is the biogenesis of membranes coordinated with the cell cycle? 
 
-{% include search-info.html %}
+Our lab tackles these questions by studying model organism, _S. pombe_
 
-{% include section.html %}
-
-## Featured
+## Meiosis II in _S. pombe_
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
