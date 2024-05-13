@@ -1,1 +1,1 @@
-Sitemap: http://nickaderlab.com/sitemap.xml
+Sitemap: https://nickaderlab.com/sitemap.xml
