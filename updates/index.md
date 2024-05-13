@@ -1,14 +1,13 @@
 ---
-title: Blog
+title: Lab Updates
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Both serious and fun!
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Updates
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+August 2024: The Ader Lab opens at UNCG! Welcome founding members, [Charolette](/_members/charolette-shore.md) and [Curtis](/_members/curtis-robinson.md)!
 
 {% include section.html %}
 
