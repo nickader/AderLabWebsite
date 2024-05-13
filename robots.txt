@@ -1,1 +1,1 @@
-Sitemap: http://nickaderlab.com/sitemap.xml
+Sitemap: https://nickader.github.io/AderLabWebsite/sitemap.xml
