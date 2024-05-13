@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Lab Updates
 
-August 2024: The Ader Lab opens at UNCG! Welcome founding members, [Charolette](https://nickaderlab.com/_members/charolette-shore.md) and [Curtis](/members/curtis-robinson.md)!
+August 2024: The Ader Lab opens at UNCG! Welcome founding members, [Charolette](../Team) and [Curtis](/members/curtis-robinson.md)!
 
 {% include section.html %}
 
