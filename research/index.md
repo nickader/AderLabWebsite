@@ -17,7 +17,12 @@ Our lab tackles these questions by studying model organism, _S. pombe_
 
 ## Meiosis II in _S. pombe_
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{%
+  include figure.html
+  image="images/meiosisII.jpg"
+  caption="A diagramatic representation of meiosis II in the fission yeast, _S. pombe_"
+  width="80%"
+%}
 
 {% include section.html %}
 
