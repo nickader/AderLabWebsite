@@ -16,8 +16,8 @@ Greensboro, NC 27403
 {%
   include button.html
   type="email"
-  text="nicholas.ader@yale.edu"
-  link="nicholas.ader@yale.edu"
+  text="nrader@unch.edu"
+  link="nrader@unch.edu"
 %}
 
 {% include section.html %}
