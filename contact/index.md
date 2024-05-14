@@ -16,8 +16,8 @@ Greensboro, NC 27403
 {%
   include button.html
   type="email"
-  text="nrader@unch.edu"
-  link="nrader@unch.edu"
+  text="nrader@uncg.edu"
+  link="nrader@uncg.edu"
 %}
 
 {% include section.html %}
