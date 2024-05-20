@@ -1,5 +1,6 @@
 # site properties and page defaults
 title: The Ader Lab
+show-title: false
 subtitle: Figuring out how our cells keep it all together
 description: 
 header: images/background.jpg
