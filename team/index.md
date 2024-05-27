@@ -9,6 +9,12 @@ nav:
 
 We're always interested in recruiting compassionate and dedicated inviduals to join our team. Please reach out to Nick on the [Contact](contact) page!
 
+{%
+  include portrait.html
+  lookup="nick-ader.md"
+  style="small"
+%}
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
