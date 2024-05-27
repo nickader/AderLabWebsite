@@ -16,7 +16,7 @@ If you're interested in joining our group, or want to work with us in any way, d
   link="nrader@uncg.edu"
 %}
 
-Our physical address is
+Our physical address is:
 <br>
 321 Eberhert Building
 <br>
