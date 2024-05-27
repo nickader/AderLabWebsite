@@ -42,3 +42,18 @@ Our lab tackles these questions by studying model organism, _S. pombe_
   title="Correlative light and electron microscopy"
   text="When we need to directly visualize membranes, we use electron microscopy. Often, we'll use fluorescence imaging to inform our electron microscopy, as was the case in finding this cell in late anaphase B. Here, the mitotic nuclear envelope (blue), microtubules (yellow), and spindle pole body (orange) are annotated."
 %}
+
+{%
+  include feature.html
+  image="images/meiosisII.png"
+  title="Yeast genetics"
+  text="Fission yeast are a fantastic model organism to examin the genetic interactions. By comparing the size of colonies on this plate, we were able to demonstrate a synthetic sick interaction between the _CMP7_ and _PCP1_ genes. This was able to inform further functional analysis by micoroscopy."
+  flip=true
+%}
+
+{%
+  include feature.html
+  image="images/meiosisII.png"
+  title="Cryo-ET"
+  text="Sometimes, we want to see more than just membranes by electron microscopy. In that case, we turn to cryo-electron microscopy. Shown are the ATP synthases abrrently localized during Bax-induced apoptosis"
+%}
