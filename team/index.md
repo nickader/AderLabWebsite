@@ -16,6 +16,6 @@ We're always interested in recruiting compassionate and dedicated inviduals to j
 
 <br>
 
-{% include portrait.html name="Arwen" style="small" %} 
-{% include portrait.html name="Julep" style="small" %} 
+{% include portrait.html name="Arwen" image="nickaderlab.com/images/arwen.jpg" style="small" %} 
+{% include portrait.html name="Julep" image="nickaderlab.com/images/julep.jpg" style="small" %} 
 
