@@ -13,7 +13,7 @@ Membranes are the bags that hold cells together. Within eukaryotic cells, sub-co
 2. What is the starting material for the biogenesis of a particular membrane? 
 3. How is the biogenesis of membranes coordinated with the cell cycle? 
 
-Our lab tackles these questions by studying model organism, _S. pombe_
+Our lab tackles these questions by studying the model organism, _S. pombe_.
 
 ## Meiosis II in _S. pombe_
 
