@@ -14,6 +14,8 @@ We're always interested in recruiting compassionate and dedicated inviduals to j
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+<br>
+
 {% include portrait.html name="Arwen" style="small" %} 
 {% include portrait.html name="Julep" style="small" %} 
 
