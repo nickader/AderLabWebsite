@@ -5,7 +5,7 @@ nav:
   tooltip: What we're working on
 ---
 
-# How do cells build and maintain membranes?
+# How do cells build and maintain compartments?
 
 Membranes are the bags that hold cells together. Within eukaryotic cells, sub-compartments are formed by organelle membranes to form specialized structures. Despite the essential nature of membranes to eukaryotic life, there are still many questions that remain unanswered:
 
@@ -38,8 +38,7 @@ Our lab tackles these questions by studying model organism, _S. pombe_
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/wt_lanab_mov.gif"
   title="Correlative light and electron microscopy"
-  text="Our Research"
-  text=text
+  text="When we need to directly visualize membranes, we use electron microscopy. Often, we'll use fluorescence imaging to inform our electron microscopy, as was the case in finding this cell in late anaphase B. Here, the mitotic nuclear envelope (blue), microtubules (yellow), and spindle pole body (orange) are annotated."
 %}
