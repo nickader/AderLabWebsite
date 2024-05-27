@@ -16,3 +16,11 @@ It is **our mission** to:
 We believe that the best science happens when individuals feel supported and trust one another. To that end, we value the communication between lab members that creates trust and the affirmative support that gives individuals the security to take risks and tackle big ideas. 
 
 We also recognize that mentoring, like scientific experimentation, is an iterative and and imperfect endevaur. We thus strive to learn from our mistakes and contiually revisit our values and practices as a group.
+
+## Resources
+
+Below are some resources we've found imformative in developing these values and considering our role as a research group:
+
+1. [The National Academies' 2023 report entitled _Advancing Antiracism, Diversity, Equity, and Inclusion in STEMM Organizations: Beyond Broadening Participation_](https://doi.org/10.17226/26803)
+2. [_Responses to 10 common criticisms of anti-racism action in STEMM_](https://doi.org/10.1371%2Fjournal.pcbi.1009141)
+3. [_Mentoring the next generation of cell biologists_](https://doi.org/10.1038/s41556-023-01278-7)
