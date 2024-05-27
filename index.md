@@ -68,12 +68,8 @@ We’re always interested in recruiting compassionate and dedicated inviduals to
 
 {%
   include feature.html
-  image="images//uncgreensboro_v_3-color-1024x612.webp"
+  image="images/uncg_3by2.png"
   link="team"
   title="Our Team"
   text=text
 %}
-
-{% include feature.html image="images/uncgreensboro_v_3-color-1024x612.webp" title="Our Team" text="We’re always interested in recruiting compassionate and dedicated inviduals to join our team. Please reach out to Nick on the [Contact](https://nickaderlab.com/contact/) page!"  %}
-
-
