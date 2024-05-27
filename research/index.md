@@ -26,6 +26,22 @@ Our lab tackles these questions by studying model organism, _S. pombe_
 
 {% include section.html %}
 
-## More
+## Our approaches
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+##Live-cell fluorescence microscopy
+
+{%
+  include feature.html
+  image="https://imgur.com/cVJuuPQ"
+  title="Live-cell fluorescence microscopy"
+  text="_S. pombe_ undergoing mitosis with labelled nuclear envelope (green) and microtubules (magenta) over the course of 30 min."
+  flip=true
+%}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Correlative light and electron microscopy"
+  text="Our Research"
+  text=text
+%}
