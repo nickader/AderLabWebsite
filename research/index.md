@@ -35,14 +35,14 @@ Our lab tackles these questions by studying the model organism, _S. pombe_.
   text="We use live-cell imaging to capture dynamic events such as mitosis and meisois. Here, you can see _S. pombe_ undergoing mitosis with labelled nuclear envelope (green) and microtubules (magenta) over the course of 30 min."
   flip=true
 %}
-
+<br>
 {%
   include feature.html
   image="images/wt_lanab_mov.gif"
   title="Correlative light and electron microscopy"
   text="When we need to directly visualize membranes, we use electron tomography. Often, we'll use fluorescence imaging to inform our electron tomogrpahy, as was the case in finding this cell in late anaphase B. Here, the mitotic nuclear envelope (blue), microtubules (yellow), and spindle pole body (orange) are annotated."
 %}
-
+<br>
 {%
   include feature.html
   image="images/genetics.png"
@@ -50,7 +50,7 @@ Our lab tackles these questions by studying the model organism, _S. pombe_.
   text="Fission yeast are a fantastic model organism to examin the genetic interactions. By comparing the size of colonies on this plate, we were able to demonstrate a synthetic sick interaction between the _CMP7_ and _PCP1_ genes. This was able to inform further functional analysis by microscopy."
   flip=true
 %}
-
+<br>
 {%
   include feature.html
   image="images/cryoET.png"
