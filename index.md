@@ -7,7 +7,7 @@ The Ader Lab at the Univeristy of North Carolina Greensboro (UNCG) seeks to unco
 
 {% capture text %}
 
-Test1
+Check out what we're intersted in now!
 
 {%
   include button.html
@@ -22,7 +22,7 @@ Test1
 
 {%
   include feature.html
-  image="images/closure.jpg"
+  image="images/closure.png"
   link="research"
   title="Our Research"
   text=text
@@ -30,7 +30,7 @@ Test1
 
 {% capture text %}
 
-Test2
+Take a look at our past publications. They'll give a good overview of our interests and approaches.
 
 {%
   include button.html
@@ -45,7 +45,7 @@ Test2
 
 {%
   include feature.html
-  image="images/publications.jpg"
+  image="images/publications.png"
   link="projects"
   title="Our Publications"
   flip=true
