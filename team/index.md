@@ -7,12 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We're always interested in recruiting compassionate and dedicated inviduals to join our team. Please reach out to Nick on the [Contact](contact) page!
+We're always interested in recruiting compassionate and dedicated inviduals to join our team. Please reach out to Nick on the [Contact](https://nickaderlab.com/contact/) page!
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+
+<br>
+
+{% include portrait.html lookup="nick-ader" %}
 
 <br>
 
