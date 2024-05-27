@@ -28,11 +28,9 @@ Our lab tackles these questions by studying model organism, _S. pombe_
 
 ## Our approaches
 
-##Live-cell fluorescence microscopy
-
 {%
   include feature.html
-  image="https://imgur.com/cVJuuPQ"
+  image= <a href="https://imgur.com/cVJuuPQ"><img src="https://i.imgur.com/cVJuuPQ.gif" title="source: imgur.com" /></a>
   title="Live-cell fluorescence microscopy"
   text="_S. pombe_ undergoing mitosis with labelled nuclear envelope (green) and microtubules (magenta) over the course of 30 min."
   flip=true
