@@ -1,8 +1,8 @@
 # site properties and page defaults
 title: The Ader Lab
 show-title: false
-subtitle: Figuring out how our cells keep it all together
-description: 
+subtitle: Figuring out how our cells keep it together
+description: A team of researchers at the Univeristy of North Carolina Greensboro investigating how cells build and maintain cellular compartments.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
