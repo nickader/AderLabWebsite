@@ -1,6 +1,8 @@
 ---
 ---
 
+The Ader Lab at the Univeristy of North Carolina Greensboro (UNCG) seeks to uncover how cells build and maintain compartments. We're broadly intrested in the cell biology of membrane remodelling and comaprtmentalization, which we investigate using the model yeast, _S. pombe_. We value communication of our science with both peers in our field as well as the public. The Ader Lab is a place where scientists can learn and grow with each other, advancing not just the field but our professional career development. We recognize that the scientific endevaur has historically excluded certain groups and individuals, and we recognize our role to address and reduce structural barriers to individual success. In that light, we embrace the princiles of diversity, equity, and inclusion in our as they manifest in our spaces at UNCG and the broader community. 
+
 ## Highlights
 
 {% capture text %}
@@ -10,7 +12,7 @@ Test1
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Take a look at what we're interested in"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,12 +30,12 @@ Test1
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Test2
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="publications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -45,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
