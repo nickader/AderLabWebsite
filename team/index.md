@@ -9,31 +9,11 @@ nav:
 
 We're always interested in recruiting compassionate and dedicated inviduals to join our team. Please reach out to Nick on the [Contact](nickaderlab.com/contact/) page!
 
-{%
-  include portrait.html
-  lookup="nick-ader.md"
-  style="small"
-%}
-
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include portrait.html name="Arwen" style="small" %} 
+{% include portrait.html name="Julep" style="small" %} 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
