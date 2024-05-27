@@ -30,9 +30,9 @@ Our lab tackles these questions by studying model organism, _S. pombe_
 
 {%
   include feature.html
-  image= <a href="https://imgur.com/cVJuuPQ"><img src="https://i.imgur.com/cVJuuPQ.gif" title="source: imgur.com" /></a>
+  image= "images/mitosis.gif"
   title="Live-cell fluorescence microscopy"
-  text="_S. pombe_ undergoing mitosis with labelled nuclear envelope (green) and microtubules (magenta) over the course of 30 min."
+  text="We use live-cell imaging to capture dynamic events such as mitosis and meisois. Here, you can see _S. pombe_ undergoing mitosis with labelled nuclear envelope (green) and microtubules (magenta) over the course of 30 min."
   flip=true
 %}
 
