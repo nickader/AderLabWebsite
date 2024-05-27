@@ -1,10 +1,6 @@
 ---
 ---
 
-# How are cells built and kept together?
-
-{% include section.html %}
-
 ## Highlights
 
 {% capture text %}
@@ -57,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We’re always interested in recruiting compassionate and dedicated inviduals to join our team. Please reach out to Nick on the [Contact](https://nickaderlab.com/contact/) page!
 
 {%
   include button.html
@@ -72,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images//uncgreensboro_v_3-color-1024x612.webp"
   link="team"
   title="Our Team"
   text=text
