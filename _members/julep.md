@@ -1,6 +1,6 @@
 ---
 name: Julep
-image: images/julep.jpg
+image: images/julep.jpeg
 description: Emotional Support Lab Animal 
 ---
 
