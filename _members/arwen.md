@@ -1,6 +1,6 @@
 ---
 name: Arwen
-image: images/arwen.jpg
+image: images/arwen.jpeg
 description: Emotional Support Lab Animal 
 ---
 
