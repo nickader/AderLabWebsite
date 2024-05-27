@@ -1,7 +1,7 @@
 ---
 title: Lab Updates
 nav:
-  order: 4
+  order: 5
   tooltip: Both serious and fun!
 ---
 
