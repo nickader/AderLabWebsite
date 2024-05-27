@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We're always looking for new folks to join our time. Please reach out on the Contact tab!
+We're always interested in recruiting compassionate and dedicated inviduals to join our team. Please reach out to Nick on the [Contact](contact) page!
 
 {% include section.html %}
 
