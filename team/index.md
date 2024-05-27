@@ -11,12 +11,9 @@ We're always interested in recruiting compassionate and dedicated inviduals to j
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-<br>
-
 {% include portrait.html lookup="nick-ader" %}
+{% include portrait.html lookup="charolette-shore" %}
+{% include portrait.html lookup="curtis-robinson" %}
 
 <br>
 
