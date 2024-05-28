@@ -13,7 +13,7 @@ It is **our mission** to:
 1. Contribute new discoveries and ideas to the existing body of human knowledge
 2. Train a diverse community of researchers for STEMM careers in an environment that fosters supportive scientific investigation
 
-We believe that the best science happens when individuals feel supported and trust one another. To that end, we value the communication between lab members that creates trust and the affirmative support that provides a scientists the ideal environment to take risks and tackle big ideas. 
+We believe that the best science happens when individuals feel supported and trust one another. To that end, we value providing a nuturing environment that equips scientists to take risks and tackle big ideas. 
 
 We also recognize that mentoring, like scientific experimentation, is an iterative and imperfect endeavor. We thus strive to learn from our mistakes and continually revisit our values and practices as a group.
 
