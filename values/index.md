@@ -3,7 +3,7 @@ title: Values
 description: Our scientific values and philosophy
 nav:
   order: 3
-  tooltip: what we believe in
+  tooltip: Our scientific values and philosophy
 ---
 # {% include icon.html icon="fa-solid fa-star" %}Values
 
