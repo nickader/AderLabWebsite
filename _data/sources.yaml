@@ -56,6 +56,7 @@
 #triclem
 - id: doi:10.1016/bs.mcb.2017.03.009
   image: images/triclem.png
+  title: triCLEM: Combining high-precision, room temperature CLEM with cryo-fluorescence microscopy to identify very rare events
   tags:
     - method article 
 
