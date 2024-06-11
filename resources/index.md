@@ -32,5 +32,5 @@ Many of these resources are from the fantastic [Bang Wong](https://x.com/bangwon
 19. [Heat maps](https://doi.org/10.1038/nmeth.1902) 28 Feb 2012
 20. [Mapping quantitatve data to color](https://doi.org/10.1038/nmeth.2134)
 21. [Power of the plane](https://doi.org/10.1038/nmeth.2186) 27 Sep 2012
-22. [Pencil & Paper] (https://doi.org/10.1038/nmeth.2223) 06 Nov 2012 
+22. [Pencil & Paper](https://doi.org/10.1038/nmeth.2223) 06 Nov 2012 
 23. [Plotting symbols](https://doi.org/10.1038/nmeth.2490) 30 May 2013
