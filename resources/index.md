@@ -2,7 +2,7 @@
 title: Resources
 description: Useful resources from us and others
 nav:
-  order: 4
+  order: 6
   tooltip: Useful resources from us and others
 ---
 # {% include icon.html icon="fa-solid fa-star" %}Resources
