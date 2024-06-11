@@ -9,6 +9,6 @@ nav:
 
 ## Figure Design 
 
-Many of these resources are from the fantastic Bang Wong, who wrote a series of short articles for Nature Methods.
+Many of these resources are from the fantastic [Bang Wong](https://x.com/bangwong?lang=en), who wrote a series of short articles for Nature Methods.
 
-1. 
+1. [Points of view: The overview figure](https://doi.org/10.1038/nmeth0511-365) 28 April 2011
