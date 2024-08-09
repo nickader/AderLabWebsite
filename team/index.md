@@ -13,6 +13,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 
 {% include portrait.html lookup="nick-ader" %}
 {% include portrait.html lookup="charolette-shore" %}
+{% include portrait.html lookup="kaela-pena" %}
 {% include portrait.html lookup="curtis-robinson" %}
 
 <br>
