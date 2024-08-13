@@ -1,6 +1,6 @@
 ---
 name: Charlotte Shore (she/her/hers)
-image: images/charlotte-shote.jpg
+image: images/charlotte-shore.jpg
 role: postdoc
 description: Postgraduate Researcher
 ---
