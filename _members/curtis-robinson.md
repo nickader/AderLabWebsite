@@ -1,6 +1,6 @@
 ---
 name: Curtis Robinson
-image: images/curtis-robinson.png
+image: images/curtis-robinson-1.png
 role: undergrad
 ---
 
