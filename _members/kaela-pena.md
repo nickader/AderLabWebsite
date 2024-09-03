@@ -1,5 +1,5 @@
 ---
-name: Kaela Pena (she/her/hers)
+name: Kaela Peña (she/her/hers)
 image: images/kaela-pena.png
 role: undergrad
 ---
