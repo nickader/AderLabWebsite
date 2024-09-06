@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-star" %}Resources
 
 ## Yeast molecular biology and genetics 
-1. [Primer design for fission yeast tagging and knockout]([https://doi.org/10.1038/nmeth0810-573](https://www.youtube.com/watch?v=5FVq820WwRE))
+1. [Primer design for fission yeast tagging and knockout](https://www.youtube.com/watch?v=5FVq820WwRE)
    
 
 ## Figure design 
