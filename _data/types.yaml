@@ -94,7 +94,7 @@ github:
   tooltip: GitHub
   link: https://github.com/$VALUE
 
-twitter:
+X:
   icon: fa-brands fa-x-twitter
   text: X
   tooltip: X
