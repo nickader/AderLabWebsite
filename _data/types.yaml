@@ -101,7 +101,7 @@ X:
   link: https://X.com/$VALUE
 
 bluesky:
-  icon: fa-solid fa-user-graduate
+  icon: fa-brands fa-blueksy
   text: Bluesky
   tooltip: Bluesky
   link: https://bsky.app/$VALUE
