@@ -6,7 +6,7 @@ nav:
 ---
 
 {% capture content %}
-  {% include opening.jpg %}
+  {% include content/opening.jpg %}
 {% endcapture %}
 
 {%
