@@ -6,11 +6,11 @@ nav:
 ---
 
 {% capture content %}
-  {% include opening.jpg %}
+  ![](/images/photo.png)
+
+  ![](/images/photo.png)
+
+  ![](/images/photo.png)
 {% endcapture %}
 
-{%
-  include grid.html
-  content=content
-  style="square"
-%}
+{% include grid.html content=content %}
