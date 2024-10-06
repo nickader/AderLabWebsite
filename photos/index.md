@@ -5,12 +5,12 @@ nav:
   tooltip: Photos from the lab!
 ---
 
-{% capture content %}
-  ![](opening.jpg)
-
-  ![](/images/photo.png)
-
-  ![](/images/photo.png)
+  {% capture content %}
+  {% include figure.html image="opening.jpg" caption="Ader Lab opened August 1, 2024!"%}
 {% endcapture %}
 
-{% include grid.html content=content %}
+{%
+  include grid.html
+  content=content
+  style="square"
+%}
