@@ -6,7 +6,7 @@ nav:
 ---
 
 {% capture content %}
-  {% include ader_headshot_square_240429.png %}
+  {% include images/ader_headshot_square_240429.png %}
 {% endcapture %}
 
 {%
