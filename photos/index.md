@@ -6,7 +6,7 @@ nav:
 ---
 
 {% capture content %}
-  ![](/images/photo.png)
+  ![](opening.jpg)
 
   ![](/images/photo.png)
 
