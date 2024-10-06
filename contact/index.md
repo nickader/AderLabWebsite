@@ -18,13 +18,6 @@ If you're interested in joining our group, or want to work with us in any way, d
 
 Undergraduates at UNCG, please fill out [this form](https://forms.office.com/r/sMs5c2P5jA) to indicate your interest in joining the lab. I'll get back to you as soon as possible!
 
-<script src="https://cdn.jsdelivr.net/npm/bsky-embed@0.0.5/dist/bsky-embed.es.js" async></script>
-<bsky-embed  
-  username="nickader.bsky.social"  
-  limit="5"  
->  
-</bsky-embed>
-
 Our physical address is:
 <br>
 321 Eberhert Building
