@@ -6,7 +6,7 @@ nav:
 ---
 
   {% capture content %}
-  {% include figure.html image="opening.jpg" caption="Ader Lab opened August 1, 2024!"%}
+  {% include figure.html image="/images/opening.jpg" caption="Ader Lab opened August 1, 2024!"%}
 {% endcapture %}
 
 {%
