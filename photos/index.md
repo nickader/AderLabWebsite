@@ -6,11 +6,7 @@ nav:
 ---
 
 {% capture content %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
-  {% include figure.html ... %}
+  {% include ader_headshot_square_240429.png %}
 {% endcapture %}
 
 {%
