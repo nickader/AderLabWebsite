@@ -1,6 +1,6 @@
 ---
 name: Sara Issa (she/her/hers)
-image: images/sara-issa.jpg
+image: images/sara-issa.jpeg
 role: undergrad
 ---
 
