@@ -6,6 +6,7 @@ nav:
 ---
 
   {% capture content %}
+  {% include figure.html image="/images/camera.jpg" caption="Our new microscope camera arrived! Hello 95% quantum efficency!"%}
   {% include figure.html image="/images/opening.jpg" caption="Ader Lab opened August 1, 2024!"%}
 {% endcapture %}
 
