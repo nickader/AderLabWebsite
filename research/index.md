@@ -57,3 +57,6 @@ Our lab tackles these questions by studying the model organism, _S. pombe_.
   title="Electron Cryo-Tomography (cryo-ET)"
   text="Sometimes, we want to see more than just membranes by electron microscopy. In that case, we turn to electron cryo-tomography (cryo-ET) mediated by cryo-focused ion beam milling. Shown here are the ATP synthases (red) mislocalizing during Bax-induced apoptosis in the mitochondrion (blues) of a HeLa cell."
 %}
+
+## Our microscopes
+<iframe src="https://www.fpbase.org/embedscope/opvnoL4ggyjbnoFKudG5QY/" frameborder="0" style="position: relative; height: 100%; width: 100%;"></iframe>
