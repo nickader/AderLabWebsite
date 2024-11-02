@@ -11,8 +11,13 @@ We're always interested in recruiting compassionate and dedicated individuals to
 
 {% include section.html %}
 
+## Principal Investigator
 {% include portrait.html lookup="nick-ader" %}
+
+## Staff
 {% include portrait.html lookup="charolette-shore" %}
+
+## Undergraduates
 {% include portrait.html lookup="natania-abera" %}
 {% include portrait.html lookup="mackenzie-cansler" %}
 {% include portrait.html lookup="skylar-chanthaphavong" %}
@@ -22,7 +27,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="olivia-walker" %}
 
 <br>
-
+## Emotional Support Lab Animals
 {% include portrait.html lookup="arwen" style="small" %}
 {% include portrait.html lookup="julep" style="small" %}
 {% include portrait.html lookup="totoro" style="small" %}
