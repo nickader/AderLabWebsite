@@ -1,5 +1,5 @@
 ---
-name: Curtis Robinson
+name: Curtis Robinson (he/him/his)
 image: images/curtis-robinson-1.png
 ---
 
