@@ -7,7 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-If you're interested in joining our group, or want to work with us in any way, don't hesitate to reach out:
+If you're interested in doing either a Master's or PhD program with me, please fill out this form [this form](https://forms.gle/QPQHZj1PBpDTtA1s8)!
+
+Undergraduates at UNCG, please fill out [this form](https://forms.office.com/r/sMs5c2P5jA) to indicate your interest in joining the lab.
+
+All others, please don't hesitate to reach out:
 
 {%
   include button.html
@@ -15,8 +19,6 @@ If you're interested in joining our group, or want to work with us in any way, d
   text="nrader@uncg.edu"
   link="nrader@uncg.edu"
 %}
-
-Undergraduates at UNCG, please fill out [this form](https://forms.office.com/r/sMs5c2P5jA) to indicate your interest in joining the lab. I'll get back to you as soon as possible!
 
 Our physical address is:
 <br>
