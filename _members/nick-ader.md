@@ -11,7 +11,7 @@ aliases:
 links:
   twitter: https://twitter.com/NicholasAder
   orcid: 0000-0001-7744-4484
-  CV: https://www.icloud.com/iclouddrive/0cdVuZ_GwSqBBt-7aU8c1MPfw#Ader_CV 
+  CV: https://uncg-my.sharepoint.com/:b:/g/personal/nrader_uncg_edu/EbSd12IIPkdHtrU1jheOkLwB5QSNjWPu5FdcASK7Pl7tKw?e=8lBKTV
 ---
 Nick did his postdoc with Megan King and Patrick Lusk in the joint LusKing Lab at Yale School of Medicine. During his postdoc, he worked to uncover a new role for the ESCRT family of membrane remodelling proteins, demonstrating their ability to physically restrict the size of a membrane hole in the nuclear envelope. While at Yale, Nick also lent his expertise in correlative light and electron microscopy (CLEM) to drive a variety of other projects in the lab, including investigations of the ultrastructure of PARP inhibitor induced persistant interphase DNA bridges and nucleophagy. 
 
