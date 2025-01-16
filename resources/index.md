@@ -9,6 +9,7 @@ nav:
 
 ## Yeast molecular biology and genetics 
 1. [Primer design for fission yeast tagging and knockout](https://www.youtube.com/watch?v=5FVq820WwRE)
+2. [Tetrad Dissection](https://www.singerinstruments.com/resource/how-to-dissect-a-tetrad/)
    
 
 ## Figure design 
