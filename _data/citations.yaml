@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2024.02.14.580336
+- id: doi:10.1038/s41556-025-01612-1
   title: A quantitative ultrastructural timeline of nuclear autophagy reveals a role
     for dynamin-like protein 1 at the nuclear envelope
   authors:
@@ -13,16 +13,32 @@
   - Thomas J. Melia
   - Megan C. King
   - C. Patrick Lusk
-  publisher: bioRxiv
-  date: '2024-02-15'
-  link: https://doi.org/gtr4s2
+  publisher: Nature Cell Biology
+  date: '2025-02-07'
+  link: https://doi.org/g9h5ks
   orcid: 0000-0001-7744-4484
-  plugin: sources.py
-  file: sources.yaml
-  image: images/nucleophagy.png
-  tags:
-  - research article
-  - preprint
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.02.19.638911
+  title: Loss of JAK1 Function Causes G2/M Cell Cycle Defects Vulnerable to Kif18a
+    Inhibition
+  authors:
+  - Vanessa Kelley
+  - Marta Baro
+  - William Gasperi
+  - Nicholas Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan King
+  - Joseph Contessa
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-24'
+  link: https://doi.org/g9h5kt
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41556-023-01235-4
   title: An ESCRT grommet cooperates with a diffusion barrier to maintain nuclear
     integrity
@@ -186,3 +202,25 @@
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e22c17bf-76d2-4daf-b6f7-e41abe7a9730/mcontent.jpg
   tags:
   - research article
+- id: doi:10.1101/2024.02.14.580336
+  title: A quantitative ultrastructural timeline of nuclear autophagy reveals a role
+    for dynamin-like protein 1 at the nuclear envelope
+  authors:
+  - Philip J. Mannino
+  - Andrew Perun
+  - Ivan V. Surovtsev
+  - Nicholas R. Ader
+  - Lin Shao
+  - Elisa C. Rodriguez
+  - Thomas J. Melia
+  - Megan C. King
+  - C. Patrick Lusk
+  publisher: bioRxiv
+  date: '2024-02-15'
+  link: https://doi.org/gtr4s2
+  image: images/nucleophagy.png
+  tags:
+  - research article
+  - preprint
+  plugin: sources.py
+  file: sources.yaml
