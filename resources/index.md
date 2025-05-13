@@ -7,6 +7,11 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-star" %}Resources
 
+## Maintaining a lab notebook
+1. [NIH OITE Keeping a Laboratory Notebook](https://www.youtube.com/watch?v=-MAIuaOL64I&ab_channel=NIHOITE)) 
+2. [Dr. Callie Chappell's Blog on Lab Notebooking](https://www.calliechappell.com/blog/2020/3/19/lab-notebook))
+   
+
 ## Yeast molecular biology and genetics 
 1. [Primer design for fission yeast tagging and knockout](https://www.youtube.com/watch?v=5FVq820WwRE)
 2. [Tetrad Dissection](https://www.singerinstruments.com/resource/how-to-dissect-a-tetrad/)
