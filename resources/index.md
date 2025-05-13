@@ -8,8 +8,8 @@ nav:
 # {% include icon.html icon="fa-solid fa-star" %}Resources
 
 ## Maintaining a lab notebook
-1. [NIH OITE Keeping a Laboratory Notebook](https://www.youtube.com/watch?v=-MAIuaOL64I&ab_channel=NIHOITE)) 
-2. [Dr. Callie Chappell's Blog on Lab Notebooking](https://www.calliechappell.com/blog/2020/3/19/lab-notebook))
+1. [NIH OITE Keeping a Laboratory Notebook](https://www.youtube.com/watch?v=-MAIuaOL64I&ab_channel=NIHOITE)
+2. [Dr. Callie Chappell's Blog on Lab Notebooking](https://www.calliechappell.com/blog/2020/3/19/lab-notebook)
    
 
 ## Yeast molecular biology and genetics 
