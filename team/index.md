@@ -17,6 +17,9 @@ We're always interested in recruiting compassionate and dedicated individuals to
 ## Staff
 {% include portrait.html lookup="charlotte-shore" %}
 
+## PhD Students
+{% include portrait.html lookup="arnav-pandley" %}
+
 ## Master's Students
 {% include portrait.html lookup="will-eichhorn" %}
 
@@ -25,9 +28,6 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="sage-benders" %}
 {% include portrait.html lookup="mackenzie-cansler" %}
 {% include portrait.html lookup="skylar-chanthaphavong" %}
-{% include portrait.html lookup="kaela-pena" %}
-{% include portrait.html lookup="curtis-robinson" %}
-{% include portrait.html lookup="sara-issa" %}
 {% include portrait.html lookup="olivia-walker" %}
 {% include portrait.html lookup="eva-ward" %}
 
@@ -38,3 +38,6 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="totoro" style="small" %}
 
 ## Alumni
+{% include portrait.html lookup="sara-issa" style="small" %}
+{% include portrait.html lookup="kaela-pena" style="small" %}
+{% include portrait.html lookup="curtis-robinson" style="small" %}
