@@ -30,9 +30,9 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="skylar-chanthaphavong" %}
 {% include portrait.html lookup="olivia-walker" %}
 {% include portrait.html lookup="eva-ward" %}
+{% include portrait.html lookup="lana-le" style="small" %}
 
 ## High School Students
-{% include portrait.html lookup="lana-le" style="small" %}
 
 ## Alumni
 {% include portrait.html lookup="sara-issa" style="small" %}
