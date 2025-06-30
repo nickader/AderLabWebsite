@@ -32,13 +32,14 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="eva-ward" %}
 
 ## High School Students
-
-## Alumni
-{% include portrait.html lookup="sara-issa" style="small" %}
-{% include portrait.html lookup="kaela-pena" style="small" %}
-{% include portrait.html lookup="curtis-robinson" style="small" %}
+{% include portrait.html lookup="lana-le2" %}
 
 ## Emotional Support Lab Animals
 {% include portrait.html lookup="arwen" style="small" %}
 {% include portrait.html lookup="julep" style="small" %}
 {% include portrait.html lookup="totoro" style="small" %}
+
+## Alumni
+{% include portrait.html lookup="sara-issa" style="tiny" %}
+{% include portrait.html lookup="kaela-pena" style="tiny" %}
+{% include portrait.html lookup="curtis-robinson" style="tiny" %}
