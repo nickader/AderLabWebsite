@@ -17,6 +17,9 @@ nav:
 2. [Tetrad Dissection](https://www.singerinstruments.com/resource/how-to-dissect-a-tetrad/)
    
 
+## Adobe Illutrator
+[Introduction to Adobe Illustrator for scientific figure design](https://youtu.be/WERLyS--8OI)
+
 ## Figure design 
 
 Many of these resources are from the fantastic [Bang Wong](https://x.com/bangwong?lang=en), who wrote a series of short articles for Nature Methods.
