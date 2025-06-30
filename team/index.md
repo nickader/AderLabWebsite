@@ -30,7 +30,6 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="skylar-chanthaphavong" %}
 {% include portrait.html lookup="olivia-walker" %}
 {% include portrait.html lookup="eva-ward" %}
-{% include portrait.html lookup="lana-le" style="small" %}
 
 ## High School Students
 
