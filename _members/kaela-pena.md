@@ -1,9 +1,9 @@
 ---
 name: Kaela Genereux 
 image: images/kaela-pena.png
-description: BS '25
+description: BS '25. 
 ---
 
-I am currently a senior earning my bachelor's degree in biology with disciplinary honors and a minor in chemistry. Outside of class I enjoy paddle boarding, traveling,  volunteering, reading and spending time with my family and pets. 
+Kaela (she/her/hers) graduated with her BS in 2025. She is currently pursuing her MS at UNCG.
 
 
