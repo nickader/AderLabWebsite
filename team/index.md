@@ -16,6 +16,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 
 ## Staff
 {% include portrait.html lookup="charlotte-shore" %}
+{% include portrait.html lookup="juni-zugish" %}
 
 ## PhD Students
 {% include portrait.html lookup="arnav-pandey" %}
