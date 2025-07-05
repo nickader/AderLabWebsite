@@ -5,7 +5,18 @@ nav:
   tooltip: Photos from the lab!
 ---
 {% capture content %}
-  {% include figure.html image="/images/photos/photos-260705-2.jpeg" caption="Sara showing off her poster at the 19th annual Undergraduate Research and Creativity Expo!"%}
+  {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-12.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-11.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-10.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-9.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-8.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-7.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-6.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-5.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-4.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-3.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-2.jpeg" caption="Sara at UNCG's researcxh expo"%}
   {% include figure.html image="/images/photos/photos-260705-1.jpeg" caption="Charlotte and Natanie doing all the PCR!"%}
   {% include figure.html image="/images/photos/241119_hike2.jpeg" caption="Charlotte giving Julep some good pets"%}
   {% include figure.html image="/images/photos/241119_hike1.jpeg" caption="Eric (Adamson lab), Charlotte, Nick (& Julep!), and Sara"%}
