@@ -15,8 +15,8 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="nick-ader" %}
 
 ## Research Technicians
-{% include portrait.html lookup="charlotte-shore" %}
-{% include portrait.html lookup="juni-zugish" %}
+{% include portrait.html lookup="shore-charlotte" %}
+{% include portrait.html lookup="zugish-juni" %}
 
 ## PhD Students
 {% include portrait.html lookup="pandey-arnav" %}
