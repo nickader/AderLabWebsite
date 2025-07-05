@@ -4,9 +4,15 @@ nav:
   order: 4
   tooltip: Photos from the lab!
 ---
-{% capture content %}
+{% capture content1 %}
   {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Always important to practice pipetting"%}
 {% endcapture %}
+
+{%
+  include grid.html
+  content=content1
+  style="square"
+%}
 
 {% capture content %}
   {% include figure.html image="/images/photos/photos-260705-12.jpeg" caption="Olivia hard at work at the scope"%}
