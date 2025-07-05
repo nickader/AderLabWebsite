@@ -5,17 +5,12 @@ nav:
   tooltip: Photos from the lab!
 ---
 
- ## 20225 
+ ## 2025 
 
 {% capture content %}
   {% include figure.html image="/images/photos/photos-260705-1.jpeg" caption="Charlotte and Natanie doing all the PCR!"%}
 {% endcapture %}
 
-{%
-  include grid.html
-  content=content
-  style="square"
-%}
  ## 2024
 {% capture content %}
   {% include figure.html image="/images/photos/241119_hike2.jpeg" caption="Charlotte giving Julep some good pets"%}
