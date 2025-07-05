@@ -12,12 +12,12 @@ nav:
 2. [Dr. Callie Chappell's Blog on Lab Notebooking](https://www.calliechappell.com/blog/2020/3/19/lab-notebook)
 
 ## Scientific writing
-1. [Ten Simple Rules for Writing Research Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453))
+1. [Ten Simple Rules for Writing Research Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453)
+2. [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&ab_channel=UChicagoSocialSciences)
 
 ## Yeast molecular biology and genetics 
 1. [Primer design for fission yeast tagging and knockout](https://www.youtube.com/watch?v=5FVq820WwRE)
 2. [Tetrad Dissection](https://www.singerinstruments.com/resource/how-to-dissect-a-tetrad/)
-   
 
 ## Adobe Illutrator
 [Introduction to Adobe Illustrator for scientific figure design](https://youtu.be/WERLyS--8OI)
