@@ -5,24 +5,6 @@ nav:
   tooltip: Photos from the lab!
 ---
 
-{%
-
-  include section.html
-  size=full
-  {% capture content %}
-    {% include figure.html image="/images/photos/photos-260705-1.jpeg" caption="Charlotte and Natanie doing all the PCR!"%}
-  {% endcapture %}
-  
-  {%
-  include grid.html
-  content=content
-  style="square"
-  %}
-
-%}
-
- ## 2025 
-
 {% capture content %}
   {% include figure.html image="/images/photos/photos-260705-1.jpeg" caption="Charlotte and Natanie doing all the PCR!"%}
 {% endcapture %}
