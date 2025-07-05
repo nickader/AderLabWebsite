@@ -3,7 +3,7 @@
 #Dnm1 publication
 - id: doi:10.1038/s41556-025-01612-1
   image: images/nucleophagy.png
-   tags:
+  tags:
     - research article
 
 #ESCRT grommet
