@@ -22,18 +22,18 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="pandey-arnav" %}
 
 ## Master's Students
-{% include portrait.html lookup="will-eichhorn" %}
+{% include portrait.html lookup="eichhorn-will" %}
 
 ## Undergraduates
-{% include portrait.html lookup="natania-abera" %}
-{% include portrait.html lookup="sage-benders" %}
-{% include portrait.html lookup="mackenzie-cansler" %}
-{% include portrait.html lookup="skylar-chanthaphavong" %}
+{% include portrait.html lookup="abera-natania" %}
+{% include portrait.html lookup="benders-sage" %}
+{% include portrait.html lookup="mcansler-ackenzie-" %}
+{% include portrait.html lookup="chanthaphavong-skylar" %}
 {% include portrait.html lookup="walker-olivia" %}
 {% include portrait.html lookup="ward-eva" %}
 
 ## High School Students
-{% include portrait.html lookup="lana-le" %}
+{% include portrait.html lookup="le-lana" %}
 
 ## Emotional Support Lab Animals
 {% include portrait.html lookup="arwen" style="small" %}
@@ -41,6 +41,6 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="totoro" style="small" %}
 
 ## Alumni
-{% include portrait.html lookup="sara-issa" style="small" %}
+{% include portrait.html lookup="issa-sara" style="small" %}
 {% include portrait.html lookup="genereux-kaela" style="small" %}
-{% include portrait.html lookup="curtis-robinson" style="small" %}
+{% include portrait.html lookup="robinson-curtis" style="small" %}
