@@ -4,12 +4,13 @@ nav:
   order: 4
   tooltip: Photos from the lab!
 ---
-
+**2025**
 {% capture content %}
   {% include figure.html image="/images/photos/photos-260705-1.jpeg" caption="Charlotte and Natanie doing all the PCR!"%}
 {% endcapture %}
 
- ## 2024
+---
+**2024**
 {% capture content %}
   {% include figure.html image="/images/photos/241119_hike2.jpeg" caption="Charlotte giving Julep some good pets"%}
   {% include figure.html image="/images/photos/241119_hike1.jpeg" caption="Eric (Adamson lab), Charlotte, Nick (& Julep!), and Sara"%}
