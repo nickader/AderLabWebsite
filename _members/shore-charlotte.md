@@ -1,5 +1,5 @@
 ---
-name: Charlotte Shore (she/her/hers)
+name: Charlotte Shore
 image: images/charlotte-shore.png
 description: she/her/hers
 ---
