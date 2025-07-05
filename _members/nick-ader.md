@@ -1,7 +1,7 @@
 ---
-name: Nick Ader, PhD (he/him/his)
+name: Nick Ader, PhD
 image: images/ader_headshot_square_240429.png
-role: he/him/his
+description: he/him/his
 aliases:
   - N. Ader
   - N Ader
@@ -9,7 +9,6 @@ aliases:
   - Nicholas R Ader
   - Nicholas Ader
 links:
-  twitter: https://twitter.com/NicholasAder
   orcid: 0000-0001-7744-4484
   CV: https://uncg-my.sharepoint.com/:b:/g/personal/nrader_uncg_edu/EbSd12IIPkdHtrU1jheOkLwB5QSNjWPu5FdcASK7Pl7tKw?e=8lBKTV
 ---
