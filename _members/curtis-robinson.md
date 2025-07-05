@@ -1,6 +1,7 @@
 ---
-name: Curtis Robinson (he/him/his)
+name: Curtis Robinson
 image: images/curtis-robinson-1.png
+description: BS '25
 ---
 
-I’m currently a senior earning my bachelor's degree in biology on the pre-med track, with minors in psychology and chemistry. In my free time, I like to read, travel, work out, play games and spend time with family.
+Curtis (he/him/his) graduated in 2025. He plans to go to medical school following a gap year.
