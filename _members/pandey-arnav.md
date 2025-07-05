@@ -1,5 +1,6 @@
 ---
-name: Arnav Pandey (he/they)
+name: Arnav Pandey
+description: he/they
 image: images/arnav_pandey.jpg
 ---
 
