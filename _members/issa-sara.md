@@ -1,6 +1,6 @@
 ---
 name: Sara Issa
-image: images/sara-issa.png
+image: images/issa-sara.png
 description: BS '25
 ---
 
