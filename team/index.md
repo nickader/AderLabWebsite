@@ -29,7 +29,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="sage-benders" %}
 {% include portrait.html lookup="mackenzie-cansler" %}
 {% include portrait.html lookup="skylar-chanthaphavong" %}
-{% include portrait.html lookup="olivia-walker" %}
+{% include portrait.html lookup="walker-olivia" %}
 {% include portrait.html lookup="eva-ward" %}
 
 ## High School Students
