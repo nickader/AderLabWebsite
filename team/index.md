@@ -42,5 +42,5 @@ We're always interested in recruiting compassionate and dedicated individuals to
 
 ## Alumni
 {% include portrait.html lookup="sara-issa" style="small" %}
-{% include portrait.html lookup="_members/kaela-genereux" style="small" %}
+{% include portrait.html lookup="genereux-kaela" style="small" %}
 {% include portrait.html lookup="curtis-robinson" style="small" %}
