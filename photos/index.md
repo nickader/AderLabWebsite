@@ -4,17 +4,18 @@ nav:
   order: 4
   tooltip: Photos from the lab!
 ---
-{% capture content1 %}
+# 2025
+{% capture 2025-photos %}
   {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Always important to practice pipetting"%}
 {% endcapture %}
 
 {%
   include grid.html
-  content=content1
+  content=2025-photos
   style="square"
 %}
-
-{% capture content %}
+# 2024
+{% capture 2024-photos %}
   {% include figure.html image="/images/photos/photos-260705-12.jpeg" caption="Olivia hard at work at the scope"%}
   {% include figure.html image="/images/photos/photos-260705-11.jpeg" caption="Heading back from NENE"%}
   {% include figure.html image="/images/photos/photos-260705-9.jpeg" caption="Kaela at NENE in NYC"%}
@@ -36,6 +37,6 @@ nav:
 
 {%
   include grid.html
-  content=content
+  content=2024-photos
   style="square"
 %}
