@@ -1,12 +1,10 @@
 ##### Modfifications #####
 
-# Dnm1 preprint
-- id: doi:10.1101/2024.02.14.580336
+#Dnm1 publication
+- id: doi:10.1038/s41556-025-01612-1
   image: images/nucleophagy.png
-  publisher: bioRxiv
-  tags:
-    - research article 
-    - preprint
+   tags:
+    - research article
 
 #ESCRT grommet
 - id: doi:10.1038/s41556-023-01235-4
@@ -79,6 +77,10 @@
 
 
 ##### Remove old preprints #####
+
+# Dnm1 preprint
+- id: doi:10.1101/2024.02.14.580336
+  remove: true
   
 #ESCRT grommet
 - id: doi:10.1101/2022.12.12.520126
