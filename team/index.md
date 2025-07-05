@@ -14,7 +14,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 ## Principal Investigator
 {% include portrait.html lookup="nick-ader" %}
 
-## Staff
+## Research Technicians
 {% include portrait.html lookup="charlotte-shore" %}
 {% include portrait.html lookup="juni-zugish" %}
 
