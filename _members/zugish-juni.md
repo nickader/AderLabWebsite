@@ -1,6 +1,6 @@
 ---
 name: Theresa Zugish 'Juni'
-image: images/juni-zugish.jpg
+image: images/zugish-juni.jpg
 description: (she/her/hers)
 ---
 
