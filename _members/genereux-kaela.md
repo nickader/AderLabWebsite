@@ -1,6 +1,6 @@
 ---
 name: Kaela Genereux 
-image: images/portraits/genereux-kaela.png
+image: images/genereux-kaela.png
 description: BS '25. 
 ---
 
