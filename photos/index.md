@@ -5,17 +5,17 @@ nav:
   tooltip: Photos from the lab!
 ---
 {% capture content %}
-  {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-12.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-11.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-10.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-9.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-8.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-7.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-6.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-5.jpeg" caption="Sara at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Always important to practice pipetting"%}
+  {% include figure.html image="/images/photos/photos-260705-12.jpeg" caption="Olivia hard at work at the scope"%}
+  {% include figure.html image="/images/photos/photos-260705-11.jpeg" caption="Heading back from NENE"%}
+  {% include figure.html image="/images/photos/photos-260705-9.jpeg" caption="Kaela at NENE in NYC"%}
+  {% include figure.html image="/images/photos/photos-260705-8.jpeg" caption="Kaela at NENE in NYC"%}
+  {% include figure.html image="/images/photos/photos-260705-10.jpeg" caption="Charlotte at NENE in NYC"%}
+  {% include figure.html image="/images/photos/photos-260705-7.jpeg" caption="Charlotte at NENE in NYC"%}
+  {% include figure.html image="/images/photos/photos-260705-6.jpeg" caption="Will at NENE in NYC"%}
+  {% include figure.html image="/images/photos/photos-260705-3.jpeg" caption="Kaela at UNCG's researcxh expo"%}
+  {% include figure.html image="/images/photos/photos-260705-5.jpeg" caption="Kaela at UNCG's researcxh expo"%}
   {% include figure.html image="/images/photos/photos-260705-4.jpeg" caption="Sara at UNCG's researcxh expo"%}
-  {% include figure.html image="/images/photos/photos-260705-3.jpeg" caption="Sara at UNCG's researcxh expo"%}
   {% include figure.html image="/images/photos/photos-260705-2.jpeg" caption="Sara at UNCG's researcxh expo"%}
   {% include figure.html image="/images/photos/photos-260705-1.jpeg" caption="Charlotte and Natanie doing all the PCR!"%}
   {% include figure.html image="/images/photos/241119_hike2.jpeg" caption="Charlotte giving Julep some good pets"%}
