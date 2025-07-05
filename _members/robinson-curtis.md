@@ -1,6 +1,6 @@
 ---
 name: Curtis Robinson
-image: images/curtis-robinson-1.png
+image: images/robinson-curtis.png
 description: BS '25
 ---
 
