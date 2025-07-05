@@ -1,6 +1,6 @@
 ---
 name: Charlotte Shore
-image: images/shore-charlotte.png
+image: images/shore-charlotte.jpg
 description: she/her/hers
 ---
 
