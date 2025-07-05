@@ -5,6 +5,7 @@ nav:
   tooltip: Photos from the lab!
 ---
 # 2025
+---
 {% capture 2025-photos %}
   {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Always important to practice pipetting"%}
   {% include figure.html image="/images/photos/photos-260705-12.jpeg" caption="Olivia hard at work at the scope"%}
@@ -28,6 +29,7 @@ nav:
 %}
 
 # 2024
+---
 {% capture 2024-photos %}
 
   {% include figure.html image="/images/photos/241119_hike2.jpeg" caption="Charlotte giving Julep some good pets"%}
