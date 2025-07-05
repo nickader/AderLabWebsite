@@ -5,7 +5,6 @@ nav:
   tooltip: Photos from the lab!
 ---
 {% capture content %}
-    {% include figure.html image="/images/photos/photos-260705-3.jpeg" caption="Kaela showing off her poster at the 19th annual Undergraduate Research and Creativity Expo!"%}
   {% include figure.html image="/images/photos/photos-260705-2.jpeg" caption="Sara showing off her poster at the 19th annual Undergraduate Research and Creativity Expo!"%}
   {% include figure.html image="/images/photos/photos-260705-1.jpeg" caption="Charlotte and Natanie doing all the PCR!"%}
   {% include figure.html image="/images/photos/241119_hike2.jpeg" caption="Charlotte giving Julep some good pets"%}
