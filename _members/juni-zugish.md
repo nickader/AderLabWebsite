@@ -1,5 +1,5 @@
 ---
-name: Theresa Zugish Juni (she/her/hers)
+name: Theresa Zugish \"Juni\" (she/her/hers)
 image: images/juni-zugish.jpg
 role: postdoc
 description: Research Technician
