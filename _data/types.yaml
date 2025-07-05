@@ -1,6 +1,6 @@
 # map general type to default/fallback icon, text, etc.
 
-# team member roles
+# team member pronouns
 
 pi:
   icon: fa-solid fa-microscope
@@ -10,9 +10,8 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
-  icon: fa-solid fa-graduation-cap
-  description: PhD Student
+he-him-his:
+  description: he/him/his
 
 undergrad:
   icon: fa-solid fa-user-graduate
