@@ -19,7 +19,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="juni-zugish" %}
 
 ## PhD Students
-{% include portrait.html lookup="arnav-pandey" %}
+{% include portrait.html lookup="pandey-arnav" %}
 
 ## Master's Students
 {% include portrait.html lookup="will-eichhorn" %}
