@@ -1,5 +1,6 @@
 ---
-name: Natania Abera (she/her/hers)
+name: Natania Abera
+description: she/her/hers
 image: images/natania-abera.jpg
 ---
 
