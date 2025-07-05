@@ -1,8 +1,7 @@
 ---
-name: Theresa Zugish 'Juni' (she/her/hers)
+name: Theresa Zugish 'Juni'
 image: images/juni-zugish.jpg
-role: postdoc
-description: Research Technician
+description: (she/her/hers)
 ---
 
 Originally from Fort Collins, Colorado, Juni earned her bachelor's degree in Biology and Writing Seminars from Johns Hopkins University in 2025. During her time as an undergraduate, Juni worked as a technician at the Neurosurgery Pain Research Institute on projects elucidating mechanisms of pain signalling in mice and as a technician for the Department of Environmental Health and Engineering to help create a statistical model that better accounts for the effects of evapotranspiration on climate change predictions. She also participated in an REU at Colorado State University, where she examined the role of iron supplementation on anaerobic metabolic products, mechanisms of cathodic electron transfer in electroactive anaerobic bacteria, and used SEM to image electroactive biofilms. One of her favorite experiences was working at the National Aquarium, where she learned a lot of fun facts about different species living in the Chesapeake Bay.
