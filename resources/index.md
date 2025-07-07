@@ -14,6 +14,8 @@ nav:
 ## Scientific writing
 1. [Ten Simple Rules for Writing Research Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453)
 2. [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&ab_channel=UChicagoSocialSciences)
+3. [Writing a scientific article: A step-by-step guide for beginners](https://doi.org/10.1016/j.eurger.2015.08.005)
+4. [A Step-by-Step Guide to Writing a Scientific Review Article](https://doi.org/10.1093/jbi/wbad028)
 
 ## Yeast molecular biology and genetics 
 1. [Primer design for fission yeast tagging and knockout](https://www.youtube.com/watch?v=5FVq820WwRE)
