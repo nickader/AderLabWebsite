@@ -21,8 +21,13 @@ nav:
 1. [Primer design for fission yeast tagging and knockout](https://www.youtube.com/watch?v=5FVq820WwRE)
 2. [Tetrad Dissection](https://www.singerinstruments.com/resource/how-to-dissect-a-tetrad/)
 
-## Adobe Illutrator
-[Introduction to Adobe Illustrator for scientific figure design](https://youtu.be/WERLyS--8OI)
+## Fiji
+1. [Intro to image analysis](https://www.youtube.com/watch?v=e-2DbkUwKk4&ab_channel=haesleinhuepf)
+2. [Intro to Fiji](https://www.youtube.com/watch?v=Akedfyp5AxY&ab_channel=haesleinhuepf)
+
+## Adobe Illustrator
+1. [Introduction to Adobe Illustrator for scientific figure design](https://youtu.be/WERLyS--8OI)
+2. [Getting your images from Fiji to Illustrator](https://youtu.be/_DXwLvcXatE)
 
 ## Figure design 
 
