@@ -22,7 +22,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="pandey-arnav" %}
 
 ## Master's Students
-{% include portrait.html lookup="eichhorn-will" %}
+{% include portrait.html lookup="howlett-william" %}
 
 ## Undergraduates
 {% include portrait.html lookup="abera-natania" %}
