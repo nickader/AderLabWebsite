@@ -28,11 +28,9 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="benders-sage" %}
 {% include portrait.html lookup="cansler-mackenzie" %}
 {% include portrait.html lookup="chanthaphavong-skylar" %}
+{% include portrait.html lookup="satterwhite-kianna" %}
 {% include portrait.html lookup="walker-olivia" %}
 {% include portrait.html lookup="ward-eva" %}
-
-## High School Students
-{% include portrait.html lookup="le-lana" %}
 
 ## Emotional Support Lab Animals
 {% include portrait.html lookup="arwen" style="small" %}
@@ -40,6 +38,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="totoro" style="small" %}
 
 ## Alumni
+{% include portrait.html lookup="le-lana" %}
 {% include portrait.html lookup="shore-charlotte" style="small"%}
 {% include portrait.html lookup="issa-sara" style="small" %}
 {% include portrait.html lookup="genereux-kaela" style="small" %}
