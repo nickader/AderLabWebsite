@@ -24,7 +24,6 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="howlett-william" %}
 
 ## Undergraduates
-{% include portrait.html lookup="abera-natania" %}
 {% include portrait.html lookup="benders-sage" %}
 {% include portrait.html lookup="cansler-mackenzie" %}
 {% include portrait.html lookup="chanthaphavong-skylar" %}
@@ -40,6 +39,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 ## Alumni
 {% include portrait.html lookup="shore-charlotte" style="small"%}
 {% include portrait.html lookup="le-lana" style="small"%}
+{% include portrait.html lookup="abera-natania" style="small"%}
 {% include portrait.html lookup="issa-sara" style="small" %}
 {% include portrait.html lookup="genereux-kaela" style="small" %}
 {% include portrait.html lookup="robinson-curtis" style="small" %}
