@@ -1,14 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1091/mbc.e23-08-0307
-  title: 'Sense, plug and seal: Proteins as both rapid responders and constitutive
+  title: 'Sense, plug, and seal: proteins as both rapid responders and constitutive
     barriers supporting organelle compartmentalization'
   authors:
   - Megan C. King
   - C. Patrick Lusk
   - Nicholas R. Ader
   publisher: Molecular Biology of the Cell
-  date: '2025-07-02'
+  date: '2025-08-01'
   link: https://doi.org/g9sfn8
   orcid: 0000-0001-7744-4484
   plugin: orcid.py
@@ -156,9 +156,7 @@
 - id: doi:10.1016/bs.mcb.2017.03.009
   title: triCLEM- Combining high-precision, room temperature CLEM with cryo-fluorescence
     microscopy to identify very rare events
-  authors:
-  - Nicholas R. Ader
-  - Wanda Kukulski
+  authors: []
   publisher: Methods in Cell Biology
   date: '2017-01-01'
   link: https://doi.org/gtr4s5
