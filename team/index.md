@@ -24,6 +24,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="howlett-william" %}
 
 ## Undergraduates
+{% include portrait.html lookup="ahmed-tazreean" %}
 {% include portrait.html lookup="benders-sage" %}
 {% include portrait.html lookup="cansler-mackenzie" %}
 {% include portrait.html lookup="chanthaphavong-skylar" %}
