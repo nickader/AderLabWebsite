@@ -1,8 +1,7 @@
 ---
 name: Skylar Chanthaphavong
 image: images/chanthaphavong-skylar.jpg
-description: she/her/hers
+description: BS '25
 ---
 
-Skylar is a third-year undergraduate student at the University of North Carolina at Greensboro. She's a disciplinary honors student on a pre-medical track, pursuing a Bachelor of Science degree as a Biology major with a Chemistry minor. Skylar has aspirations to work in an operating room as an anesthesiologist. Outside of science, she's passionate about drawing, her car, gaming, cooking, drinking matcha lattes, and collecting all things cute and purple.
-
+Skylar (she/her/hers) graduated in December 2025. She's now taking a one gap year to focus on MCAT studying and getting clinical hours at a hospital. She's also going to focus on content creation on Tiktok for fun!
