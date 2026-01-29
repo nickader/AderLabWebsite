@@ -1,6 +1,6 @@
 ---
 name: Sophia Lau
-image: images/pombe-portrait.png
-descriptions: 
+image: images/lau-sophia.jpg
+descriptions: they/them
 ---
-Lorum ipsum
+I am interested in genetics and cell metabolism as well as microbiology! My career goals are for higher education (Masters or PhD) and finding a job in research.
