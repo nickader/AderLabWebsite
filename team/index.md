@@ -14,14 +14,10 @@ We're always interested in recruiting compassionate and dedicated individuals to
 ## Principal Investigator
 {% include portrait.html lookup="nick-ader" %}
 
-## Research Technicians
-{% include portrait.html lookup="zugish-juni" %}
-
 ## PhD Students
 {% include portrait.html lookup="pandey-arnav" %}
+{% include portrait.html lookup="zugish-juni" %}
 
-## Master's Students
-{% include portrait.html lookup="howlett-william" %}
 
 ## Undergraduates
 {% include portrait.html lookup="ahmed-tazreean" %}
@@ -29,6 +25,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="fawson-alayna" %}
 {% include portrait.html lookup="jennings-jaleeyhia" %}
 {% include portrait.html lookup="lau-sophia" %}
+{% include portrait.html lookup="love-grace" %}
 {% include portrait.html lookup="satterwhite-kianna" %}
 {% include portrait.html lookup="walker-olivia" %}
 {% include portrait.html lookup="ward-eva" %}
@@ -39,6 +36,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="totoro" style="small" %}
 
 ## Alumni
+{% include portrait.html lookup="howlett-william" style="small"%}
 {% include portrait.html lookup="chanthaphavong-skylar" style="small"%}
 {% include portrait.html lookup="cansler-mackenzie" style="small"%}
 {% include portrait.html lookup="shore-charlotte" style="small"%}
