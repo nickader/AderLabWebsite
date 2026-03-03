@@ -1,7 +1,7 @@
 ---
-name: William Howlett (he/him/his)
+name: William Howlett
 image: images/howlett-will.jpg
-description: he/him/his
+description: 
 ---
 
 Will has moved to the lab of Dr. Annemarie Sohler to pursue a MS in bioanthropology.
