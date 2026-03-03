@@ -1,60 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1158/0008-5472.CAN-25-1423
-  title: Loss of JAK1 Function Causes G2/M Cell Cycle Defects Vulnerable to KIF18A
-    Inhibition
-  authors:
-  - Vanessa M. Kelley
-  - Marta Baro
-  - William E. Gasperi
-  - Nicholas R. Ader
-  - Hannah Lea
-  - Hojin Lee
-  - Chatchai Phoomak
-  - Lilian Kabeche
-  - Megan C. King
-  - Joseph N. Contessa
-  publisher: Cancer Research
-  date: '2026-01-27'
-  link: https://doi.org/hbmtxh
-  orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1091/mbc.e23-08-0307
-  title: 'Sense, plug, and seal: proteins as both rapid responders and constitutive
-    barriers supporting organelle compartmentalization'
-  authors:
-  - Megan C. King
-  - C. Patrick Lusk
-  - Nicholas R. Ader
-  publisher: Molecular Biology of the Cell
-  date: '2025-08-01'
-  link: https://doi.org/g9sfn8
-  orcid: 0000-0001-7744-4484
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41556-025-01612-1
-  title: A quantitative ultrastructural timeline of nuclear autophagy reveals a role
-    for dynamin-like protein 1 at the nuclear envelope
-  authors:
-  - Philip J. Mannino
-  - Andrew Perun
-  - Ivan V. Surovtsev
-  - Nicholas R. Ader
-  - Lin Shao
-  - Elisa C. Rodriguez
-  - Thomas J. Melia
-  - Megan C. King
-  - C. Patrick Lusk
-  publisher: Nature Cell Biology
-  date: '2025-02-07'
-  link: https://doi.org/g9h5ks
-  orcid: 0000-0001-7744-4484
-  plugin: sources.py
-  file: sources.yaml
-  image: images/nucleophagy.png
-  tags:
-  - research article
 - id: doi:10.1101/2025.02.19.638911
   title: Loss of JAK1 Function Causes G2/M Cell Cycle Defects Vulnerable to Kif18a
     Inhibition
@@ -72,6 +17,19 @@
   publisher: openRxiv
   date: '2025-02-24'
   link: https://doi.org/g9h5kt
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1091/mbc.e23-08-0307
+  title: 'Sense, plug, and seal: proteins as both rapid responders and constitutive
+    barriers supporting organelle compartmentalization'
+  authors:
+  - Megan C. King
+  - C. Patrick Lusk
+  - Nicholas R. Ader
+  publisher: Molecular Biology of the Cell
+  date: '2025-08-01'
+  link: https://doi.org/g9sfn8
   orcid: 0000-0001-7744-4484
   plugin: orcid.py
   file: orcid.yaml
@@ -96,26 +54,6 @@
   tags:
   - research article
   description: <sup>1</sup>Undergraduate researcher
-- id: doi:10.1083/jcb.202103030
-  title: Atg39 selectively captures inner nuclear membrane into lumenal vesicles for
-    delivery to the autophagosome
-  authors:
-  - Sunandini Chandra
-  - Philip J. Mannino
-  - David J. Thaller
-  - Nicholas R. Ader
-  - Megan C. King
-  - Thomas J. Melia
-  - C. Patrick Lusk
-  publisher: Journal of Cell Biology
-  date: '2021-10-29'
-  link: https://doi.org/gsw7tv
-  orcid: 0000-0001-7744-4484
-  plugin: sources.py
-  file: sources.yaml
-  image: images/nucleophagy0.png
-  tags:
-  - research article
 - id: doi:10.1083/jcb.202004222
   title: "Direct binding of ESCRT protein Chm7 to phosphatidic acid\u2013rich membranes\
     \ at nuclear envelope herniations"
@@ -138,6 +76,26 @@
   image: images/pa.png
   tags:
   - research article
+- id: doi:10.1083/jcb.202103030
+  title: Atg39 selectively captures inner nuclear membrane into lumenal vesicles for
+    delivery to the autophagosome
+  authors:
+  - Sunandini Chandra
+  - Philip J. Mannino
+  - David J. Thaller
+  - Nicholas R. Ader
+  - Megan C. King
+  - Thomas J. Melia
+  - C. Patrick Lusk
+  publisher: Journal of Cell Biology
+  date: '2021-10-29'
+  link: https://doi.org/gsw7tv
+  orcid: 0000-0001-7744-4484
+  plugin: sources.py
+  file: sources.yaml
+  image: images/nucleophagy0.png
+  tags:
+  - research article
 - id: doi:10.1016/j.ceb.2020.01.011
   title: 'CHMPions of repair: Emerging perspectives on sensing and repairing the nuclear
     envelope barrier'
@@ -153,26 +111,6 @@
   image: images/chmpions.png
   tags:
   - review
-- id: doi:10.7554/elife.40712
-  title: Molecular and topological reorganizations in mitochondrial architecture interplay
-    during Bax-mediated steps of apoptosis
-  authors:
-  - Nicholas R Ader
-  - Patrick C Hoffmann
-  - Iva Ganeva
-  - Alicia C Borgeaud
-  - Chunxin Wang
-  - Richard J Youle
-  - Wanda Kukulski
-  publisher: eLife
-  date: '2019-02-04'
-  link: https://doi.org/gst7s4
-  orcid: 0000-0001-7744-4484
-  plugin: sources.py
-  file: sources.yaml
-  image: images/bax.png
-  tags:
-  - research article
 - id: doi:10.1016/bs.mcb.2017.03.009
   title: triCLEM- Combining high-precision, room temperature CLEM with cryo-fluorescence
     microscopy to identify very rare events
@@ -236,3 +174,43 @@
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/e22c17bf-76d2-4daf-b6f7-e41abe7a9730/mcontent.jpg
   tags:
   - research article
+- id: doi:10.1038/s41556-025-01612-1
+  title: A quantitative ultrastructural timeline of nuclear autophagy reveals a role
+    for dynamin-like protein 1 at the nuclear envelope
+  authors:
+  - Philip J. Mannino
+  - Andrew Perun
+  - Ivan V. Surovtsev
+  - Nicholas R. Ader
+  - Lin Shao
+  - Elisa C. Rodriguez
+  - Thomas J. Melia
+  - Megan C. King
+  - C. Patrick Lusk
+  publisher: Nature Cell Biology
+  date: '2025-02-07'
+  link: https://doi.org/g9h5ks
+  image: images/nucleophagy.png
+  tags:
+  - research article
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/elife.40712
+  title: Molecular and topological reorganizations in mitochondrial architecture interplay
+    during Bax-mediated steps of apoptosis
+  authors:
+  - Nicholas R Ader
+  - Patrick C Hoffmann
+  - Iva Ganeva
+  - Alicia C Borgeaud
+  - Chunxin Wang
+  - Richard J Youle
+  - Wanda Kukulski
+  publisher: eLife
+  date: '2019-02-04'
+  link: https://doi.org/gst7s4
+  image: images/bax.png
+  tags:
+  - research article
+  plugin: sources.py
+  file: sources.yaml
