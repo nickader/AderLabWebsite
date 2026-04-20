@@ -7,15 +7,21 @@ nav:
 ---
 # {% include icon.html icon="fa-solid fa-star" %}Resources
 
+
 ## Maintaining a lab notebook
 1. [NIH OITE Keeping a Laboratory Notebook](https://www.youtube.com/watch?v=-MAIuaOL64I&ab_channel=NIHOITE)
 2. [Dr. Callie Chappell's Blog on Lab Notebooking](https://www.calliechappell.com/blog/2020/3/19/lab-notebook)
 
-## Scientific writing
+## Scientific Communication
+
+### Writing
 1. [Ten Simple Rules for Writing Research Papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453)
 2. [LEADERSHIP LAB: The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM&ab_channel=UChicagoSocialSciences)
 3. [Writing a scientific article: A step-by-step guide for beginners](https://doi.org/10.1016/j.eurger.2015.08.005)
 4. [A Step-by-Step Guide to Writing a Scientific Review Article](https://doi.org/10.1093/jbi/wbad028)
+
+### Presenting
+1. [Scientific research posters – what they are & advice for preparing and presenting them](https://thebumblingbiochemist.com/365-days-of-science/researchposteradvice/)
 
 ## Yeast molecular biology and genetics 
 1. [Primer design for fission yeast tagging and knockout](https://www.youtube.com/watch?v=5FVq820WwRE)
