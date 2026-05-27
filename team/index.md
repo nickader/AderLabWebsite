@@ -18,16 +18,12 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="pandey-arnav" %}
 {% include portrait.html lookup="zugish-juni" %}
 
-
 ## Undergraduates
 {% include portrait.html lookup="ahmed-tazreean" %}
-{% include portrait.html lookup="benders-sage" %}
 {% include portrait.html lookup="fawson-alayna" %}
-{% include portrait.html lookup="jennings-jaleeyhia" %}
 {% include portrait.html lookup="lau-sophia" %}
 {% include portrait.html lookup="love-grace" %}
-{% include portrait.html lookup="satterwhite-kianna" %}
-{% include portrait.html lookup="walker-olivia" %}
+{% include portrait.html lookup="saenz-alli" %}
 {% include portrait.html lookup="ward-eva" %}
 
 ## Emotional Support Lab Animals
@@ -36,6 +32,10 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="totoro" style="small" %}
 
 ## Alumni
+{% include portrait.html lookup="jennings-jaleeyhia" style="small%}
+{% include portrait.html lookup="benders-sage" style="small%}
+{% include portrait.html lookup="satterwhite-kianna" style="small%}
+{% include portrait.html lookup="walker-olivia" style="small%}
 {% include portrait.html lookup="howlett-william" style="small"%}
 {% include portrait.html lookup="chanthaphavong-skylar" style="small"%}
 {% include portrait.html lookup="cansler-mackenzie" style="small"%}
