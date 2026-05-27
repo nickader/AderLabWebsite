@@ -20,6 +20,21 @@
   orcid: 0000-0001-7744-4484
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.17912/MICROPUB.BIOLOGY.002122
+  title: Cmp7-dependent recruitment of Alx1 to a mitotic nuclear envelope hole in
+    Schizosaccharomyces pombe
+  authors:
+  - Kaela D. Genereux
+  - Olivia N. Walker
+  - Sage O. Benders
+  - Thanh Truc Le
+  - Nicholas R. Ader
+  publisher: microPublication Biology
+  date: '2026-01-01'
+  link: https://doi.org/hb5qt9
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1091/mbc.e23-08-0307
   title: 'Sense, plug, and seal: proteins as both rapid responders and constitutive
     barriers supporting organelle compartmentalization'
