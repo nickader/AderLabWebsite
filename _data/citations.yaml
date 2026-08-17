@@ -1,5 +1,385 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/0008-5472.c.8542720
+  title: "Data from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013M\
+    \ Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nf
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714872
+  title: "Figure S1 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2ng
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714863
+  title: "Figure S10 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nh
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714860
+  title: "Figure S11 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nj
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714857
+  title: "Figure S12 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nk
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714854
+  title: "Figure S2 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nm
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714851
+  title: "Figure S3 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nn
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714845
+  title: "Figure S4 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2np
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714842
+  title: "Figure S5 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nq
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714839
+  title: "Figure S6 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nr
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714836
+  title: "Figure S7 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2ns
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714833
+  title: "Figure S8 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nt
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714830
+  title: "Figure S9 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nv
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714827
+  title: "Supplementary Methods from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nw
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714824
+  title: "Supplementary Movie SM1 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nx
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714821
+  title: "Supplementary Movie SM2 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2nz
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714818
+  title: "Supplementary Movie SM3 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2n2
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714815
+  title: "Supplementary Movie SM4 from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2n3
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.32714812
+  title: "Supplementary Tables from Loss of JAK1 Function Causes G&lt;sub&gt;2&lt;/sub&gt;\u2013\
+    M Cell-Cycle Defects Vulnerable to KIF18A Inhibition"
+  authors:
+  - Vanessa M. Kelley
+  - Marta Baro
+  - William E. Gasperi
+  - Nicholas R. Ader
+  - Hannah Lea
+  - Hojin Lee
+  - Chatchai Phoomak
+  - Lilian Kabeche
+  - Megan C. King
+  - Joseph N. Contessa
+  publisher: American Association for Cancer Research (AACR)
+  date: '2026-06-17'
+  link: https://doi.org/hcf2n4
+  orcid: 0000-0001-7744-4484
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.02.19.638911
   title: Loss of JAK1 Function Causes G2/M Cell Cycle Defects Vulnerable to Kif18a
     Inhibition
