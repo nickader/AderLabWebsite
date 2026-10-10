@@ -4,6 +4,19 @@ nav:
   order: 4
   tooltip: Photos from the lab!
 ---
+
+# 2026
+---
+{% capture 2026-photos %}
+  {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Always important to practice pipetting"%}
+{% endcapture %}
+
+{%
+  include grid.html
+  content=2026-photos
+  style="square"
+%}
+
 # 2025
 ---
 {% capture 2025-photos %}
