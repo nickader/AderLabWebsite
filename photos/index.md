@@ -42,21 +42,21 @@ nav:
 # 2025
 ---
 {% capture 2025-photos %}
-  {% include figure.html image="/images/photos/261010_15.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_15.jpeg"%}
-  {% include figure.html image="/images/photos/261010_14.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_14.jpeg"%}
-  {% include figure.html image="/images/photos/261010_13.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_13.jpeg"%}
-  {% include figure.html image="/images/photos/261010_12.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_12.jpeg"%}
-  {% include figure.html image="/images/photos/261010_11.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_11.jpeg"%}
-  {% include figure.html image="/images/photos/261010_10.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_10.jpeg"%}
-  {% include figure.html image="/images/photos/261010_9.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_9.jpeg"%}
-  {% include figure.html image="/images/photos/261010_8.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_8.jpeg"%}
-  {% include figure.html image="/images/photos/261010_7.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_7.jpeg"%}
-  {% include figure.html image="/images/photos/261010_6.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_6.jpeg"%}
-  {% include figure.html image="/images/photos/261010_5.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_5.jpeg"%}
-  {% include figure.html image="/images/photos/261010_4.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_4.jpeg"%}
-  {% include figure.html image="/images/photos/261010_3.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_3.jpeg"%}
-  {% include figure.html image="/images/photos/261010_2.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_2.jpeg"%}
-  {% include figure.html image="/images/photos/261010_1.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_1.jpeg"%}
+  {% include figure.html image="/images/photos/261010_15.jpeg" caption="First conference, first chopsticks!" link="/images/photos/261010_15.jpeg"%}
+  {% include figure.html image="/images/photos/261010_14.jpeg" caption="Joing trainee/PI talk!" link="/images/photos/261010_14.jpeg"%}
+  {% include figure.html image="/images/photos/261010_13.jpeg" caption="Eva and Will at dinner" link="/images/photos/261010_13.jpeg"%}
+  {% include figure.html image="/images/photos/261010_12.jpeg" caption="Oliva and Eric at dinner" link="/images/photos/261010_12.jpeg"%}
+  {% include figure.html image="/images/photos/261010_11.jpeg" caption="Olivia at Cell Bio 2025" link="/images/photos/261010_11.jpeg"%}
+  {% include figure.html image="/images/photos/261010_10.jpeg" caption="Arnav presenting at Cell Bio 2025" link="/images/photos/261010_10.jpeg"%}
+  {% include figure.html image="/images/photos/261010_9.jpeg" caption="Cell Bio 2025" link="/images/photos/261010_9.jpeg"%}
+  {% include figure.html image="/images/photos/261010_8.jpeg" caption="Cell Bio 2025" link="/images/photos/261010_8.jpeg"%}
+  {% include figure.html image="/images/photos/261010_7.jpeg" caption="Cell Bio 2025" link="/images/photos/261010_7.jpeg"%}
+  {% include figure.html image="/images/photos/261010_6.jpeg" caption="On the way to Cel Bio 2025" link="/images/photos/261010_6.jpeg"%}
+  {% include figure.html image="/images/photos/261010_5.jpeg" caption="Teamwork makes the dreamwork!" link="/images/photos/261010_5.jpeg"%}
+  {% include figure.html image="/images/photos/261010_4.jpeg" caption="Ader Lab in Fall 2025" link="/images/photos/261010_4.jpeg"%}
+  {% include figure.html image="/images/photos/261010_3.jpeg" caption="Olivia with 2025 Draelos Scholar, Lana" link="/images/photos/261010_3.jpeg"%}
+  {% include figure.html image="/images/photos/261010_2.jpeg" caption="2025 Draelos Scholars Colloquium" link="/images/photos/261010_2.jpeg"%}
+  {% include figure.html image="/images/photos/261010_1.jpeg" caption="Charlotte's leaving dinner" link="/images/photos/261010_1.jpeg"%}
   {% include figure.html image="/images/photos/photos-260705-13.jpeg" caption="Always important to practice pipetting" link="/images/photos/photos-260705-13.jpeg"%}
   {% include figure.html image="/images/photos/photos-260705-12.jpeg" caption="Olivia hard at work at the scope" link="/images/photos/photos-260705-12.jpeg"%}
   {% include figure.html image="/images/photos/photos-260705-11.jpeg" caption="Heading back from NENE" link="/images/photos/photos-260705-11.jpeg"%}
