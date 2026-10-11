@@ -17,20 +17,20 @@ nav:
   {% include figure.html image="/images/photos/261010_32.jpeg" caption="Normal photo with 2026 Draelos Scholars" link="/images/photos/261010_32.jpeg"%}
   {% include figure.html image="/images/photos/261010_31.jpeg" caption="2026 Draelos Scholars Colloquium" link="/images/photos/261010_31.jpeg"%}
   {% include figure.html image="/images/photos/261010_30.jpeg" caption="Ader Lab as of Summer 2026" link="/images/photos/261010_30.jpeg"%}
-  {% include figure.html image="/images/photos/261010_29.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_29.jpeg"%}
-  {% include figure.html image="/images/photos/261010_28.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_28.jpeg"%}
-  {% include figure.html image="/images/photos/261010_27.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_27.jpeg"%}
-  {% include figure.html image="/images/photos/261010_26.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_26.jpeg"%}
-  {% include figure.html image="/images/photos/261010_25.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_25.jpeg"%}
-  {% include figure.html image="/images/photos/261010_24.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_24.jpeg"%}
-  {% include figure.html image="/images/photos/261010_23.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_23.jpeg"%}
-  {% include figure.html image="/images/photos/261010_22.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_22.jpeg"%}
-  {% include figure.html image="/images/photos/261010_21.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_21.jpeg"%}
-  {% include figure.html image="/images/photos/261010_20.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_20.jpeg"%}
-  {% include figure.html image="/images/photos/261010_19.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_19.jpeg"%}
-  {% include figure.html image="/images/photos/261010_18.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_18.jpeg"%}
-  {% include figure.html image="/images/photos/261010_17.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_17.jpeg"%}
-  {% include figure.html image="/images/photos/261010_16.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_16.jpeg"%}
+  {% include figure.html image="/images/photos/261010_29.jpeg" caption="2026 Draelos Scholars, Sachi & Daniel" link="/images/photos/261010_29.jpeg"%}
+  {% include figure.html image="/images/photos/261010_28.jpeg" caption="UNCG Cat" link="/images/photos/261010_28.jpeg"%}
+  {% include figure.html image="/images/photos/261010_27.jpeg" caption="Grace giving the lab a good cleaning" link="/images/photos/261010_27.jpeg"%}
+  {% include figure.html image="/images/photos/261010_26.jpeg" caption="2026 Kubb Tournament" link="/images/photos/261010_26.jpeg"%}
+  {% include figure.html image="/images/photos/261010_25.jpeg" caption="2026 Kubb Tournament Winners, Julien & Juni" link="/images/photos/261010_25.jpeg"%}
+  {% include figure.html image="/images/photos/261010_24.jpeg" caption="Sophia got bands!" link="/images/photos/261010_24.jpeg"%}
+  {% include figure.html image="/images/photos/261010_23.jpeg" caption="DNA Origami at UNCG's Science Everywhere" link="/images/photos/261010_23.jpeg"%}
+  {% include figure.html image="/images/photos/261010_22.jpeg" caption="Kianna at the UNCG Spring Poster Session" link="/images/photos/261010_22.jpeg"%}
+  {% include figure.html image="/images/photos/261010_21.jpeg" caption="Alayna at the UNCG Spring Poster Session" link="/images/photos/261010_21.jpeg"%}
+  {% include figure.html image="/images/photos/261010_20.jpeg" caption="Jaleeyhia at the UNCG Spring Poster Session" link="/images/photos/261010_20.jpeg"%}
+  {% include figure.html image="/images/photos/261010_19.jpeg" caption="Olivia at the UNCG Spring Poster Session" link="/images/photos/261010_19.jpeg"%}
+  {% include figure.html image="/images/photos/261010_18.jpeg" caption="Successful recording session!" link="/images/photos/261010_18.jpeg"%}
+  {% include figure.html image="/images/photos/261010_17.jpeg" caption="Recording for Research T at the G" link="/images/photos/261010_17.jpeg"%}
+  {% include figure.html image="/images/photos/261010_16.jpeg" caption="Juni bringing the fun" link="/images/photos/261010_16.jpeg"%}
 {% endcapture %}
 
 {%
