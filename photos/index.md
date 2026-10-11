@@ -8,7 +8,7 @@ nav:
 # 2026
 ---
 {% capture 2026-photos %}
-  {% include figure.html image="/images/photos/261010_38.jpeg" caption="test"%}
+  {% include figure.html image="/images/photos/261010_38.jpeg" caption="test" link="/images/photos/261010_38.jpeg"%}
   {% include figure.html image="/images/photos/261010_37.jpeg" caption="Always important to practice pipetting"%}
   {% include figure.html image="/images/photos/261010_36.jpeg" caption="Always important to practice pipetting"%}
   {% include figure.html image="/images/photos/261010_35.jpeg" caption="Always important to practice pipetting"%}
