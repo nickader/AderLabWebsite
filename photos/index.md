@@ -8,18 +8,13 @@ nav:
 # 2026
 ---
 {% capture 2026-photos %}
-    {% 
-    include figure.html 
-    image="/images/photos/261010_38.jpeg" 
-    caption="Always important to practice pipetting"% 
-    link="/images/photos/261010_38.jpeg"
-    }
-  {% include figure.html image="/images/photos/261010_37.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_36.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_35.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_34.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_33.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_32.jpeg" caption="Always important to practice pipetting"%}
+  {% include figure.html image="/images/photos/261010_38.jpeg" caption="Always important to practice pipetting"% link="/images/photos/261010_38.jpeg"}
+  {% include figure.html image="/images/photos/261010_37.jpeg" caption="Time to run out the gel!"%}
+  {% include figure.html image="/images/photos/261010_36.jpeg" caption="Go Spartans!"%}
+  {% include figure.html image="/images/photos/261010_35.jpeg" caption="Arnav presenting at the Biology poster session"%}
+  {% include figure.html image="/images/photos/261010_34.jpeg" caption="Juni presenting at the Biology poster session""%}
+  {% include figure.html image="/images/photos/261010_33.jpeg" caption="Cool? selfie with Draelos"%}
+  {% include figure.html image="/images/photos/261010_32.jpeg" caption="Normal photo with Draelos Scholars"%}
   {% include figure.html image="/images/photos/261010_31.jpeg" caption="Always important to practice pipetting"%}
   {% include figure.html image="/images/photos/261010_30.jpeg" caption="Always important to practice pipetting"%}
   {% include figure.html image="/images/photos/261010_29.jpeg" caption="Always important to practice pipetting"%}
