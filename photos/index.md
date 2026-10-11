@@ -8,29 +8,29 @@ nav:
 # 2026
 ---
 {% capture 2026-photos %}
-  {% include figure.html image="/images/photos/261010_38.jpeg" caption="test" link="/images/photos/261010_38.jpeg"%}
-  {% include figure.html image="/images/photos/261010_37.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_36.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_35.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_34.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_33.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_32.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_31.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_30.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_29.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_28.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_27.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_26.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_25.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_24.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_23.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_22.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_21.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_20.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_19.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_18.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_17.jpeg" caption="Always important to practice pipetting"%}
-  {% include figure.html image="/images/photos/261010_16.jpeg" caption="Always important to practice pipetting"%}
+  {% include figure.html image="/images/photos/261010_38.jpeg" caption="Time to run out the colony PCR" link="/images/photos/261010_38.jpeg"%}
+  {% include figure.html image="/images/photos/261010_37.jpeg" caption="Go Spartans!" link="/images/photos/261010_37.jpeg"%}
+  {% include figure.html image="/images/photos/261010_36.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_36.jpeg"%}
+  {% include figure.html image="/images/photos/261010_35.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_35.jpeg"%}
+  {% include figure.html image="/images/photos/261010_34.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_34.jpeg"%}
+  {% include figure.html image="/images/photos/261010_33.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_33.jpeg"%}
+  {% include figure.html image="/images/photos/261010_32.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_32.jpeg"%}
+  {% include figure.html image="/images/photos/261010_31.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_31.jpeg"%}
+  {% include figure.html image="/images/photos/261010_30.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_30.jpeg"%}
+  {% include figure.html image="/images/photos/261010_29.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_29.jpeg"%}
+  {% include figure.html image="/images/photos/261010_28.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_28.jpeg"%}
+  {% include figure.html image="/images/photos/261010_27.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_27.jpeg"%}
+  {% include figure.html image="/images/photos/261010_26.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_26.jpeg"%}
+  {% include figure.html image="/images/photos/261010_25.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_25.jpeg"%}
+  {% include figure.html image="/images/photos/261010_24.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_24.jpeg"%}
+  {% include figure.html image="/images/photos/261010_23.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_23.jpeg"%}
+  {% include figure.html image="/images/photos/261010_22.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_22.jpeg"%}
+  {% include figure.html image="/images/photos/261010_21.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_21.jpeg"%}
+  {% include figure.html image="/images/photos/261010_20.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_20.jpeg"%}
+  {% include figure.html image="/images/photos/261010_19.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_19.jpeg"%}
+  {% include figure.html image="/images/photos/261010_18.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_18.jpeg"%}
+  {% include figure.html image="/images/photos/261010_17.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_17.jpeg"%}
+  {% include figure.html image="/images/photos/261010_16.jpeg" caption="Always important to practice pipetting" link="/images/photos/261010_16.jpeg"%}
 {% endcapture %}
 
 {%
