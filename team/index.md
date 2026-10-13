@@ -19,6 +19,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="zugish-juni" %}
 
 ## Undergraduates
+{% include portrait.html lookup="clark-abigail" %}
 {% include portrait.html lookup="fawson-alayna" %}
 {% include portrait.html lookup="lau-sophia" %}
 {% include portrait.html lookup="love-grace" %}
