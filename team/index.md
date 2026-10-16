@@ -24,6 +24,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="lau-sophia" %}
 {% include portrait.html lookup="love-grace" %}
 {% include portrait.html lookup="saenz-alli" %}
+{% include portrait.html lookup="yeboah-nyamekye" %}
 
 ## Emotional Support Lab Animals
 {% include portrait.html lookup="arwen" style="small" %}
