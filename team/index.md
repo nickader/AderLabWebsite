@@ -39,6 +39,7 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="jennings-jaleeyhia" style="small"%}
 {% include portrait.html lookup="benders-sage" style="small"%}
 {% include portrait.html lookup="satterwhite-kianna" style="small"%}
+{% include portrait.html lookup="green-ariyah" style="small"%}
 {% include portrait.html lookup="walker-olivia" style="small"%}
 {% include portrait.html lookup="howlett-william" style="small"%}
 {% include portrait.html lookup="chanthaphavong-skylar" style="small"%}
