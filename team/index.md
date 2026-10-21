@@ -32,6 +32,8 @@ We're always interested in recruiting compassionate and dedicated individuals to
 {% include portrait.html lookup="totoro" style="small" %}
 
 ## Alumni
+{% include portrait.html lookup="bhusal-sachi" style="small"%}
+{% include portrait.html lookup="han-daniel" style="small"%}
 {% include portrait.html lookup="ahmed-tazreean" style="small"%}
 {% include portrait.html lookup="ward-eva" style="small"%}
 {% include portrait.html lookup="jennings-jaleeyhia" style="small"%}
