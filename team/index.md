@@ -20,10 +20,13 @@ We're always interested in recruiting compassionate and dedicated individuals to
 
 ## Undergraduates
 {% include portrait.html lookup="clark-abigail" %}
+{% include portrait.html lookup="dacat-duy" %}
 {% include portrait.html lookup="fawson-alayna" %}
 {% include portrait.html lookup="lau-sophia" %}
 {% include portrait.html lookup="love-grace" %}
 {% include portrait.html lookup="saenz-alli" %}
+{% include portrait.html lookup="sanchez-ramirez-robert" %
+{% include portrait.html lookup="santos-ashley" %}
 {% include portrait.html lookup="yeboah-nyamekye" %}
 
 ## Emotional Support Lab Animals
